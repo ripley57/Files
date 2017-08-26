@@ -1681,6 +1681,7 @@ Queens Of The Stone Age/Like Clockwork
 Queens Of The Stone Age/Lullabies To Paralyze
 Queens Of The Stone Age/Rated R
 Queens Of The Stone Age/Songs For The Deaf [Europe]
+Queens Of The Stone Age/Villains
 Rachel Unthank & The Winterset/The Bairns
 Radiohead/Ok Computer
 Radiohead/Pablo Honey
@@ -1741,9 +1742,6 @@ Rich Robinson/Paper
 Rich Robinson/Through A Crooked Sun
 Ritchie Blackmore's Rainbow/Stranger In Us All
 Robben Ford/Talk To Your Daughter
-Robbie Williams/Greatest Hits
-Robbie Williams/Intensive Care
-Robbie Williams/Reality Killed The Video Star
 Robert Cray/Don't Be Afraid Of The Dark
 Robert Cray/Nothin But Love
 Robert Cray/Strong Persuader
@@ -2058,6 +2056,7 @@ Terrorvision/Take The Money And Run/Take The Money And Run [Disc 1]
 Terrorvision/Take The Money And Run/Take The Money And Run [Disc 2]
 Terrorvision/The Essential Terrorvision
 Terrorvision/Whales And Dolphins - The Best Of Terrorvision
+Terry Anderson/You Don''t Like Me
 Testament/Signs Of Chaos_ The Best Of Testament
 Testament/Souls Of Black
 Texas/In Demand (Single)
@@ -2120,6 +2119,7 @@ The Brian Jonestown Massacre/Give It Back!
 The Brian Jonestown Massacre/Tepid Peppermint Wonderland_ A Retrospec
 The Bullhounds/To Rock and to Serve
 The Cadillac Three/Bury Me In My Boots
+The Cadillac Three/Legacy
 The Cadillac Three/Tennessee Mojo
 The Calling/Camino Palmero
 The Cardigans/Gran Turismo
