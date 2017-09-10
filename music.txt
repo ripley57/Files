@@ -265,6 +265,7 @@ Bob Dylan/Greatest Hits Volume 3
 Bob Dylan/Live 1975 - The Rolling Thunder Revue
 Bob Dylan/The Best Of Bob Dylan I
 Bob Dylan/The Bootleg Series Vols. 1-3 Rare And
+Bob Harris/Bob Harris Country Sessions
 Body Count/Bloodlust
 Body Count/Body Count
 Body Count/Born Dead
@@ -287,6 +288,7 @@ Brad Paisley/Moonshine in the Trunk
 Brad Paisley/Mud On The Tires
 Brad Paisley/Part II
 Brad Paisley/This Is Country Music
+Brad Paisley/Time Well Wasted
 Brad Paisley/Wheelhouse
 Brad Paisley/Who Needs Pictures
 Brandy Clark/12 Stories
@@ -506,6 +508,7 @@ Dan Baird/Love Songs For The Hearing Impaired
 Dan Baird/Out Of Mothballs
 Dan Baird/Rollercoaster
 Dan Baird/SoLow
+Dan Baird/The Red Wristband Special
 Dangerous Toys/Dangerous Toys
 Dare/Out Of The Silence
 Darren Hayes/Spin
@@ -532,6 +535,7 @@ David Lee Roth/Eat 'Em And Smile
 David Lee Roth/Skyscraper
 David Lee Roth/Your Filthy Little Mouth
 David Minasian/Random Acts Of Beauty
+David Rawlings/Poor David's Almanack
 Death Cab For Cutie/Plans
 Death In Vegas/Dead Elvis
 Death In Vegas/The Contino Sessions
@@ -599,6 +603,7 @@ Dire Straits/On Every Street
 Dire Straits/Sultans Of Swing
 Dirty Pretty Things/Waterloo To Anywhere
 Disturbed/Ten Thousand Fists
+Disturbed/The Lost Children
 Dixie Chicks/Fly
 Dixie Chicks/Home
 Dixie Chicks/Taking The Long Way
@@ -913,6 +918,7 @@ Hawkwind/The Best Of & The Rest Of
 Hawkwind/The Space Ritual
 Hayseed Dixie/AC_DC
 Hayseed Dixie/Hayseed Dixie
+Hayseed Dixie/Weapons Of Grass Destruction
 Heart/Bad Animals
 Heart/Brigade
 Heart/Dog & Butterfly
@@ -920,6 +926,7 @@ Heart/Dreamboat Annie
 Heart/Greatest Hits
 Heart/Heart
 Heart/Little Queen
+Heart/Red Velvet Car
 Heaven & Hell/The Devil You Know
 Helloween/Keeper Of The Seven Keys Part I
 Helmet/Aftertaste
@@ -945,6 +952,7 @@ Ian Gillan/Mercury/Mercury High (Disc 2)
 Inspiral Carpets/Revenge Of The Goldfish
 Interpol/Our Love To Admire
 INXS/X
+Iommi/Fused
 Iommi/Iommi
 Iron Maiden/A Matter Of Life And Death
 Iron Maiden/Best Of The Beast
@@ -1011,6 +1019,7 @@ Jeff Beck/Wired
 Jefferson Airplane/The Best Of Jefferson Airplane
 Jem/Down To Earth
 Jem/Finally Woken
+Jenny Lewis With The Watson Twins/Rabbit Fur Coat
 Jess and the Bandits/Here We Go Again [Deluxe]
 Jessie J/Who You Are
 Jethro Tull/The Very Best Of Jethro Tull
@@ -1529,6 +1538,7 @@ New Found Glory/Sticks And Stones
 New Order/Power, Corruption & Lies
 Nickelback/Dark Horse
 Nickelback/Silver Side Up
+Nickel Creek/This Side
 Nickel Creek/Why Should The Fire Die_
 Nick Lowe/Jesus Of Cool
 Nine Inch Nails/Pretty Hate Machine
@@ -1553,6 +1563,7 @@ Oasis/Stops The Clocks
 Oasis/Stops The Clocks/Stop The Clocks [Disc 1]
 Oasis/Stops The Clocks/Stop The Clocks [Disc 2]
 Oasis/(What's The Story) Morning Glory_
+Old Dominion/Happy Endings
 Old Dominion/Meat and Candy
 Olive/Extra Virgin
 Olive/You're Not Alone (Single)
@@ -2095,6 +2106,7 @@ The Black Crowes/Amorica
 The Black Crowes/Greatest Hits 1990-1999
 The Black Crowes/Lions
 The Black Crowes/Live
+The Black Crowes/Live At The Greek
 The Black Crowes/Live/Live [Disc 1]
 The Black Crowes/Live/Live [Disc 2]
 The Black Crowes/Shake Your Money Maker
@@ -2186,6 +2198,7 @@ The Jam/Extras_ A Collection of Rarities
 The Jam/Setting Sons
 The Jam/Sound Affects
 The Jeff Healey Band/Feel This
+The Jeff Healey Band/Get Me Some
 The Jesus & Mary Chain/Psychocandy
 The Killers/Hot Fuss
 The Killers/Sam's Town
@@ -2292,6 +2305,7 @@ The Sundays/Static & Silence
 The Undertones/Teenage Kicks - The Very Best Of The Und
 The Undertones/The Singles
 The Union/The Union
+The Union/The World Is Yours
 The Unthanks/Here's The Tender Coming
 The Vaughan Brothers/Family Style
 The Velvet Underground/The Velvet Underground
@@ -2335,6 +2349,7 @@ Thin Lizzy/The Collection
 Thin Lizzy/Thunder And Lightning
 Thin Lizzy/Vagabonds, Kings, Warriors, Angels (Disc
 Thin Lizzy/Wild One - The Very Best Of Thin Lizzy
+Thomas Rhett/Life Changes
 Thomas Rhett/Tangled Up
 Thomas Wynn And The Believers/Wade Waist Deep
 Thunder/Backstreet Symphony
@@ -2358,6 +2373,7 @@ Tim McGraw/Two Lanes Of Freedom [Accelerated Deluxe]
 Tin Tin Out With Shelley Nelson/Sometimes (Single)
 Toby Keith/Clancy's Tavern
 Toby Keith/Hope On The Rocks
+Toby Keith/The Bus Songs
 Todd Rivers/Todd Rivers
 Tommy Lee/Tommyland_The Ride
 Tom Petty & The Heartbreakers/Anthology Through The Years
@@ -2473,6 +2489,7 @@ Vivian Stanshall/Teddy Boys Don't Knit
 Vixen/Vixen
 Voodoo Six/Fluke_
 Ward Thomas/Cartwheels
+Ward Thomas/From Where We Stand
 Warner E. Hodges/Centerline
 Warner E. Hodges/Gunslinger
 Warner E. Hodges/Preachin The Gospel
@@ -2544,6 +2561,7 @@ Y&T/Contagious
 Y&T/Down For The Count
 Y&T/Earthshaker
 Y&T/Endangered Species
+Y&T/Facemelter
 Y&T/In Rock We Trust
 Y&T/Live On The Friday Rock Show
 Y&T/Mean Streak
