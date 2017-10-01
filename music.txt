@@ -298,6 +298,7 @@ Brantley Gilbert/The Devil Don't Sleep
 Brian Kennedy/Live in Belfast
 British Lions/British Lions
 British Sea Power/The Decline Of British Sea Power
+Brooks & Dunn/The Greatest Hits Collection
 Brother Cane/Brother Cane
 Brothers Osborne/Pawn Shop
 Bruce Dickinson/Skunkworks
@@ -642,6 +643,7 @@ Drivin' N Cryin'/Smoke
 Dr. John/Locked Down
 Dr. John/The Very Best Of Dr. John
 Duffy/Rockferry
+Dustin Lynch/Current Mood
 Dusty Springfield/Dusty in Memphis
 Dweezil Zappa/Automatic
 Dweezil Zappa/Confessions
@@ -1158,6 +1160,7 @@ Katie Melua/Piece By Piece
 Katy Perry/The Complete Confection
 Keane/Hopes and Fears
 Keane/Under The Iron Sea
+Keith Urban/Be Here
 Keith Urban/Days go By
 Keith Urban/Defying Gravity
 Keith Urban/Golden Road
@@ -1245,6 +1248,7 @@ Lady Antebellum/Need You Now/Amazon_MP3_Cancelled_Later/Need You Now
 Lady Antebellum/On This Winter's Night
 Lady Antebellum/Own The Night
 L_A_Guns/Hollywood Vampires
+Larkin Poe/Kin
 La Roux/La Roux
 Laura Marling/I Speak Because I Can
 Lauren Alaina/Lauren Alaina
@@ -1312,6 +1316,7 @@ Little Big Town/Tornado
 Living Colour/Stain
 Living Colour/Time's Up
 London Grammar/If You Wait
+Lonestar/Lonely Grill
 Love/Forever Changes
 Love Hate/Blackout In The Red Room
 Love Hate/Greatest & Latest
@@ -1324,6 +1329,7 @@ Lucinda Williams/Car Wheels On A Gravel Road
 Lucinda Williams/Down Where The Spirit Meets The Bone
 Lucinda Williams/Lucinda Williams
 Lucinda Williams/West
+Lukas Nelson and Promise of the Real/Lukas Nelson & Promise Of The Real
 Luke Bryan/Crash My Party
 Luke Bryan/Kill The Lights
 Luke Bryan/Tailgates & Tanlines
@@ -2361,6 +2367,7 @@ Thunder/Laughing on Judgement Day
 Thunder/Live 100 Club Jan 2016
 Thunder/Live_At_Wacken_2013
 Thunder/Rip It Up
+Thunder/Robert Johnson's Tombstone
 Thunder/The Rare, The Raw And The Rest
 Thunder/The Thrill Of It All
 Thunder/The Very Best Of Thunder
@@ -2486,6 +2493,7 @@ Velvet Revolver/Contraband
 Velvet Revolver/Libertad
 Venom/The Court Of Death
 Vince Neil/Exposed
+Vivian Campbell/Two Sides Of If
 Vivian Stanshall/Teddy Boys Don't Knit
 Vixen/Vixen
 Voodoo Six/Fluke_
@@ -2494,6 +2502,7 @@ Ward Thomas/From Where We Stand
 Warner E. Hodges/Centerline
 Warner E. Hodges/Gunslinger
 Warner E. Hodges/Preachin The Gospel
+Warner E. Hodges/Right Back Where I Started
 Warrant/Cherry Pie (Single)
 Warrant/The Best Of Warrant
 Wasp/Babylon
@@ -2521,6 +2530,7 @@ Whitesnake/1987
 Whitesnake/Best Of Whitesnake
 Whitesnake/Come And Get It
 Whitesnake/Greatest Hits
+Whitesnake/Lovehunter
 Whitesnake/Ready An' Willing
 Whitesnake/Saints & Sinners
 Whitesnake/Slide It In
