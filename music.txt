@@ -399,6 +399,7 @@ Cole Swindell/You Should Be Here
 Compilations/All Time Greatest Movie Songs
 Compilations/All Time Greatest Movie Songs/All Time Greatest Movie Songs [Disc 1]
 Compilations/All Time Greatest Movie Songs/All Time Greatest Movie Songs [Disc 2]
+Compilations/BMG Presents
 Compilations/C2C 2017
 Compilations/Clarkson Rocks [The Sun]
 Compilations/Classic Rock Anthems
@@ -1718,6 +1719,8 @@ Rainbow/The Best Of Rainbow/The Best Of Rainbow (Disc 1)
 Rainbow/The Best Of Rainbow/The Best Of Rainbow (Disc 2)
 Rainbow/The Masters Collection
 Rammstein/Sehnsucht
+Randy Houser/Fired Up
+Randy Houser/How Country Feels
 Randy Newman/Good Old Boys (Reprise_Rhino)
 Randy Newman/Johnny Cutler's Birthday
 Randy Newman/Lonely At The Top_ The Best Of Randy New
