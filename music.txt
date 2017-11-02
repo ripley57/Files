@@ -162,6 +162,7 @@ BB King & Eric Clapton/Riding With The King
 BB King/Live At The BBC
 BB King/The Best Of B.B. King
 Beach Boys/Beach Boys
+Beck/Colors
 Beck/Guero
 Beck/Midnite Vultures
 Beck/Modern Guilt
@@ -293,6 +294,7 @@ Brad Paisley/Time Well Wasted
 Brad Paisley/Wheelhouse
 Brad Paisley/Who Needs Pictures
 Brandy Clark/12 Stories
+Brandy Clark/Big Day In A Small Town
 Brantley Gilbert/Halfway To Heaven
 Brantley Gilbert/Just As I Am
 Brantley Gilbert/The Devil Don't Sleep
@@ -1018,6 +1020,7 @@ Jason And The Scorchers/Reckless Country Soul
 Jason And The Scorchers/Still Standing
 Jason Isbell and the 400 Unit/Here We Rest
 Jason Isbell and the 400 Unit/The Nashville Sound
+Jason Ringenberg/All Over Creation
 Jean-Michel Jarre/Electronica 1_ The Time Machine
 Jeff Beck/Blow By Blow
 Jeff Beck/Jeff Beck Group
@@ -1769,6 +1772,7 @@ Reef/Replenish
 Republica/Republica
 Rhino Bucket/And Then It Got Ugly
 Rhino Bucket/Get Used To It
+Rhino Bucket/Pain
 Richard & Linda Thompson/The Best Of Richard & Linda Thompson
 Rich Robinson/Paper
 Rich Robinson/Through A Crooked Sun
