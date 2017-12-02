@@ -429,6 +429,8 @@ Compilations/Monsters Of Rock
 Compilations/Monsters Of Rock/Monsters Of Rock [Disc 1]
 Compilations/Monsters Of Rock/Monsters Of Rock [Disc 2]
 Compilations/Monsters Of Rock/Monsters Of Rock [Disc 3]
+Compilations/Nashville Outlaws
+Compilations/Nashville Outlaws/A Tribute To Mötley Crüe
 Compilations/Now That's What I Call Country!
 Compilations/Now That's What I Call Country, Vol. 2
 Compilations/Now That's What I Call Country Vol. 4
