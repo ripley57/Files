@@ -894,6 +894,7 @@ Green Day/Revolution Radio
 Green Day/Tre!
 Green Day/Uno!
 Green Day/Warning
+Gretchen Peters/Circus Girl
 Gretchen Wilson/All Jacked Up
 Gretchen Wilson/Here For The Party
 Gretchen Wilson/I Got Your Country Right Here
@@ -1402,6 +1403,7 @@ Manic Street Preachers/Forever Delayed
 Manic Street Preachers/Futurology
 Manic Street Preachers/Generation Terrorists
 Manic Street Preachers/Gold Against The Soul
+Manic Street Preachers/Journal For Plague Lovers
 Manic Street Preachers/Know Your Enemy
 Manic Street Preachers/National Treasures_ The Complete Singles
 Manic Street Preachers/Postcards From A Young Man
@@ -1459,6 +1461,8 @@ Megadeth/Youthanasia
 Megan Henwood/Making Waves
 Melanie C/Northern Star
 Melanie C/Reason
+Melissa Etheridge/Breakdown
+Melissa Etheridge/Yes I Am
 Meredith Brooks/Blurring The Edges
 Meredith Brooks/Deconstruction
 Metallica/_..And Justice For All
@@ -1756,6 +1760,7 @@ Ratt/Invasion of Your Privacy
 Ratt/Out of the Cellar
 Razorlight/Up All Night
 Reba McEntire/Love Somebody
+Reba McEntire/So Good Together
 Red Hot Chili Peppers/Blood Sugar Sex Magik
 Red Hot Chili Peppers/By The Way
 Red Hot Chili Peppers/Californication
@@ -2119,6 +2124,7 @@ The Allman Brothers Band/Hittin' The Note
 The Allman Brothers Band/The Collection
 The Almighty/Live From Donington '92
 The Almighty/Powertrippin'
+The Almighty/Psycho-Narco
 The Almighty/Soul Destruction
 The Almighty/The Almighty
 The Aristocrats/The Aristocrats
