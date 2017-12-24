@@ -9,6 +9,7 @@
 38 Special/Wild-Eyed Southern Boys
 4 Non Blondes/Bigger, Better, Faster, More!
 Aaron Lewis/Sinner
+Aaron Watson/Vaquero
 Accept/The Collection
 AC DC/'74 Jailbreak
 AC DC/AC_DC Live
@@ -81,6 +82,7 @@ Alison Krauss/Live/Live (Disc 2)
 Alison Krauss/Lonely Runs Both Ways
 Alison Krauss/New Favorite
 Alison Krauss/Now That I've Found You
+Alison Krauss/Paper Airplane
 All About Eve/All About Eve
 All About Eve/Keepsakes A Collection
 All About Eve/Keepsakes A Collection/Keepsakes A Collection (Disc 1)
@@ -88,6 +90,7 @@ All About Eve/Keepsakes A Collection/Keepsakes A Collection (Disc 2)
 All About Eve/Scarlet And Other Stories
 Alter Bridge/AB III
 Alter Bridge/Blackbird
+Alter Bridge/Fortress
 Alter Bridge/One Day Remains
 Alter Bridge/The Story So Far
 Andy Partridge/Fuzzy Warbles Volume 1
@@ -202,6 +205,8 @@ Blackberry Smoke/Leave a Scar Live
 Blackberry Smoke/Like an Arrow
 Blackberry Smoke/Little Piece of Dixie
 Blackberry Smoke/The Whippoorwill
+Black Country Communion/Afterglow
+Black Country Communion/Black Country Communion
 Blackfoot/Marauder
 Blackfoot/Siogo
 Blackfoot/Strikes
@@ -519,6 +524,7 @@ Dan Baird/Rollercoaster
 Dan Baird/SoLow
 Dan Baird/The Red Wristband Special
 Dangerous Toys/Dangerous Toys
+Dan + Shay/Where It All Began
 Dare/Out Of The Silence
 Darren Hayes/Spin
 Dar Williams/End Of The Summer
@@ -1029,6 +1035,7 @@ Jason Isbell and the 400 Unit/The Nashville Sound
 Jason Ringenberg/All Over Creation
 Jean-Michel Jarre/Electronica 1_ The Time Machine
 Jeff Beck/Blow By Blow
+Jeff Beck/Emotion & Commotion
 Jeff Beck/Jeff Beck Group
 Jeff Beck/Jeff Beck Group With Jan Hammer Group Live
 Jeff Beck/Rough And Ready
@@ -1120,6 +1127,7 @@ Joni Mitchell/Taming The Tiger
 Joni Mitchell/The Hissing Of Summer Lawns
 Joni Mitchell/Turbulent Indigo
 Joni Mitchell/Wild Things Run Fast
+Jon Pardi/California Sunrise
 Joss Stone/The Soul Sessions
 Journey/Best of
 Journey/Best of/Best of (Disc 1)
@@ -1267,6 +1275,7 @@ Lady Antebellum/Need You Now/Amazon_MP3_Cancelled_Later/Need You Now
 Lady Antebellum/On This Winter's Night
 Lady Antebellum/Own The Night
 L_A_Guns/Hollywood Vampires
+L_A_Guns/The Missing Peace
 Larkin Poe/Kin
 La Roux/La Roux
 Laura Marling/I Speak Because I Can
@@ -1314,6 +1323,7 @@ Limp Bizkit/New Old Songs
 Limp Bizkit/Significant Other
 Limp Bizkit/Significant Other (Bonus Disc)
 Lindsey Buckingham & Christine McVie/Lindsey Buckingham & Christine McVie
+Lindsey Buckingham/Out Of The Cradle
 Lindsey Buckingham/Seeds We Sow
 Linkin Park/A Thousand Suns
 Linkin Park/Hybrid Thoery
@@ -1495,6 +1505,7 @@ Michael Schenker/MSG
 Michael Schenker/One Night At Budokan (Remaster)
 Michelle Branch/The Spirit Room
 Midland/On The Rocks
+Million Dollar Reload/A Sinner s Saint
 Miranda Lambert/Crazy Ex-Girlfriend
 Miranda Lambert/Four The Record
 Miranda Lambert/Platinum
@@ -1573,6 +1584,7 @@ Nickelback/Silver Side Up
 Nickel Creek/This Side
 Nickel Creek/Why Should The Fire Die_
 Nick Lowe/Jesus Of Cool
+Nikki Lane/Highway Queen
 Nine Inch Nails/Pretty Hate Machine
 Nine Inch Nails/The Slip
 Nirvana/Incesticide
@@ -1834,6 +1846,7 @@ Rush/Roll The Bones
 Rush/Rush
 Rush/Snakes & Arrows
 Rush/Time Stand Still_ The Collection
+Russell Dickerson/Yours
 Ruth Notman/Threads
 Ryan Adams/29
 Ryan Adams/Ashes & Fire
@@ -2041,6 +2054,7 @@ Stone Sour/Come What (Ever) May
 Stone Sour/Stone Sour
 Stone Temple Pilots/Core
 Stone Temple Pilots/Thank You
+Stone Temple Pilots/Tiny Music...Songs From The Vatican Gift
 Suede/Dog Man Star
 Sugar/Beaster (Remastered)
 Sugar/Besides
@@ -2144,6 +2158,7 @@ The Beatles/1
 The Beatles/A Hard Day's Night
 The Beautiful South/Carry On Up The Charts_ The Best Of The
 The Black Crowes/Amorica
+The Black Crowes/Before The Frost.._
 The Black Crowes/Greatest Hits 1990-1999
 The Black Crowes/Lions
 The Black Crowes/Live
