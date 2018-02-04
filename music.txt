@@ -856,6 +856,7 @@ Gary Moore/Still Got The Blues
 Gary Moore/Victims Of The Future
 Gene Simmons/Asshole
 Gene/To See The Lights
+Geordie/Can You Do It
 George Benson/Big Boss Band
 George Benson/Breezin'
 George Benson/Give Me The Night
@@ -1888,6 +1889,8 @@ Saxon/Best Of Saxon
 Saxon/Call To Arms
 Saxon/Crusader
 Saxon/Denim And Leather
+Saxon/Dogs Of War
+Saxon/Forever Free
 Saxon/Innocence Is No Excuse
 Saxon/Innocence Is No Excuse/m4a
 Saxon/Power And The Glory
@@ -2031,6 +2034,7 @@ Stereophonics/Decade In The Sun - Best Of Stereophonic
 Stereophonics/Just Enough Education To Perform
 Stereophonics/Language Sex Violence Other
 Stereophonics/Performance And Cocktails
+Steve Earle/Copperhead Road
 Steve Gaines/One In The Sun
 Steve Vai/Passion & Warfare
 Steve Vai/Sex & Religion
