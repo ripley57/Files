@@ -60,6 +60,7 @@ Alabama Shakes/Boys & Girls
 Alanis Morissette/Jagged Little Pill
 Alanis Morissette/Supposed Former Infatuation Junkie
 Alanis Morissette/Under Rug Swept
+Alan Jackson/34 Number Ones
 Albert King & Stevie Ray Vaughan/In Session (Live)
 Alice Cooper/The Beast of Alice Cooper
 Alice In Chains/Black Gives Way To Blue
@@ -371,6 +372,7 @@ Carrie Underwood/Blown Away
 Carrie Underwood/Carnival Ride
 Carrie Underwood/Some Hearts
 Carrie Underwood/Storyteller
+Cassadee Pope/Frame By Frame
 Cast/Magic Hour
 Catatonia/Equally Cursed And Blessed
 Catatonia/Paper Scissors Stone
@@ -399,6 +401,7 @@ Chris Robinson/This Magnificent Distance
 Chris Stapleton/From A Room
 Chris Stapleton/From A Room - Volume 2
 Chris Stapleton/Traveller
+Christine McVie/In The Meantime
 Christophe Mae/On Trace La Route
 Chris Young/A.M
 Chris Young/I'm Comin' Over
@@ -1177,6 +1180,7 @@ Kasabian/West Ryder Pauper Lunatic Asylum
 Kasey Chambers/Barricades & Brickwalls
 Kasey Chambers/The Captain
 Kasey Chambers/Wayward Angel
+Kasey Chambers/Wreck and Ruin
 Kate Bush/Aerial
 Kate Bush/Aerial/Aerial_ A Sea of Honey
 Kate Bush/Aerial/Aerial_ A Sky of Honey
@@ -1416,6 +1420,7 @@ Madonna/The Immaculate Collection
 Magnum/Escape From The Shadow Garden
 Magnum/The Valley Of Tears - The Ballads
 Magnum/Vigilante
+Magnum/Wings Of Heaven
 Mama's Boys/Plug It In
 Mama's Boys/Power And Passion
 Manic Street Preachers/Everything Must Go
@@ -1558,6 +1563,8 @@ Motörhead/The Essential/The Essential [Disc 1]
 Motörhead/The Essential/The Essential [Disc 2]
 M People/Bizarre Fruit
 MSG/MSG
+Municipal Waste/Slime And Punishment
+Municipal Waste/The Fatal Feast
 Muse/Absolution
 Nanci Griffith/Clock Without Hands
 Nanci Griffith/Flyer
@@ -1775,6 +1782,7 @@ Rascal Flatts/Greatest Hits, Vol. 1
 Rascal Flatts/Melt
 Rascal Flatts/Me & My Gang
 Rascal Flatts/Nothing Like This
+Rascal Flatts/Rewind
 Rascal Flatts/Still Feels Good
 Rascal Flatts/Unstoppable
 Ratt/Detonator
@@ -2050,6 +2058,7 @@ Stevie Nicks/Enchanted/Enchanted (Disc 3)
 Stevie Nicks/The Other Side Of The Mirror
 Stevie Nicks/The Soundstage Sessions
 Stevie Nicks/Trouble In Shangri-La
+Stevie Ray Vaughan/Solos, Sessions & Encores
 Stevie Ray Vaughan/Soul To Soul
 Stevie Ray Vaughan/Texas Flood
 Stevie Ray Vaughan/The Best Of
@@ -2262,8 +2271,10 @@ The Jam/Beat Surrender
 The Jam/Extras_ A Collection of Rarities
 The Jam/Setting Sons
 The Jam/Sound Affects
+The Jeff Healey Band/Cover To Cover
 The Jeff Healey Band/Feel This
 The Jeff Healey Band/Get Me Some
+The Jeff Healey Band/See The Light
 The Jesus & Mary Chain/Psychocandy
 The Killers/Hot Fuss
 The Killers/Sam's Town
@@ -2378,6 +2389,7 @@ The Velvet Underground/The Very Best
 The Verve/Urban Hymns
 The View/Hats Off To The Buskers
 The War On Drugs/Lost In The Dream
+The War On Drugs/Wagonwheel Blues
 The Watson Twins/Fire Songs
 The Watson Twins/Southern Manners
 The White Buffalo/Darkest Darks, Lightest Lights
@@ -2417,6 +2429,7 @@ Thin Lizzy/The Collection
 Thin Lizzy/Thunder And Lightning
 Thin Lizzy/Vagabonds, Kings, Warriors, Angels (Disc
 Thin Lizzy/Wild One - The Very Best Of Thin Lizzy
+Thomas Rhett/It Goes Like This
 Thomas Rhett/Life Changes
 Thomas Rhett/Tangled Up
 Thomas Wynn And The Believers/Wade Waist Deep
