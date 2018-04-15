@@ -203,7 +203,7 @@ Beverley Knight/Shoulda Woulda Coulda (Single)
 Beverley Knight/Who I Am
 Big Country/Fields Of Fire_ The Ultimate Collection
 Bjork/Greatest Hits
-Blackberry Smoke/Find A Light
+Blackberry Smoke/Find a Light
 Blackberry Smoke/Holding All The Roses
 Blackberry Smoke/Leave a Scar Live
 Blackberry Smoke/Like an Arrow
@@ -309,6 +309,7 @@ Brantley Gilbert/Halfway To Heaven
 Brantley Gilbert/Just As I Am
 Brantley Gilbert/The Devil Don't Sleep
 Brian Kennedy/Live in Belfast
+Brian Kennedy/The Great War Of Words
 British Lions/British Lions
 British Sea Power/The Decline Of British Sea Power
 Brooks & Dunn/The Greatest Hits Collection
@@ -758,6 +759,7 @@ Example/Won't Go Quietly
 eXodus/Lessons In Violence - The Best Of
 Extreme/Extreme
 Extreme/Get The Funk Out (Single)
+Extreme/III Sides To Every Story
 Extreme/Pornograffitti
 Fairport Convention/Meet On The Ledge_ The Collection
 Fairport Convention/Then & Now 1982-1996_ The Best Of Fairpo
@@ -1034,6 +1036,7 @@ Jason Aldean/Jason Aldean
 Jason Aldean/My Kinda Party
 Jason Aldean/Night Train
 Jason Aldean/Old Boots, New Dirt
+Jason Aldean/Rearview Town
 Jason Aldean/Relentless
 Jason Aldean/They Don't Know
 Jason Aldean/Wide Open
@@ -1178,6 +1181,7 @@ Kaiser Chiefs/Employment
 Kaiser Chiefs/Off With Their Heads
 Kaiser Chiefs/Souvenir_ The Singles 2004-2012
 Kaiser Chiefs/Yours Truly, Angry Mob
+Kane Brown/Kane Brown (Deluxe Edition)
 Karnataka/The Gathering Light
 Kasabian/Empire
 Kasabian/Kasabian
@@ -1360,6 +1364,7 @@ Little Big Town/The Road To Here
 Little Big Town/Tornado
 Living Colour/Stain
 Living Colour/Time's Up
+LOCASH/The Fighters
 London Grammar/If You Wait
 Lonestar/Lonely Grill
 Love/Forever Changes
@@ -1521,6 +1526,7 @@ Michael Schenker/Live In Tilburg
 Michael Schenker/Michael Schenker Group
 Michael Schenker/MSG
 Michael Schenker/One Night At Budokan (Remaster)
+Michelle Branch/Hotel Paper
 Michelle Branch/The Spirit Room
 Midland/On The Rocks
 Million Dollar Reload/A Sinner s Saint
@@ -1757,6 +1763,7 @@ Queens Of The Stone Age/Lullabies To Paralyze
 Queens Of The Stone Age/Rated R
 Queens Of The Stone Age/Songs For The Deaf [Europe]
 Queens Of The Stone Age/Villains
+Queensryche/Q2k
 Rachel Unthank & The Winterset/The Bairns
 Radiohead/Ok Computer
 Radiohead/Pablo Honey
@@ -1825,6 +1832,8 @@ Richard & Linda Thompson/The Best Of Richard & Linda Thompson
 Rich Robinson/Paper
 Rich Robinson/Through A Crooked Sun
 Ritchie Blackmore's Rainbow/Stranger In Us All
+Rival Sons/Great Western Valkyrie
+Rival Sons/Head Down
 Robben Ford/Talk To Your Daughter
 Robert Cray/Don't Be Afraid Of The Dark
 Robert Cray/Nothin But Love
@@ -1946,6 +1955,7 @@ Seasick Steve/Man From Another Time
 Semisonic/Feeling Strangely Fine
 Serj Tankian/Elect The Dead
 Seth Ennis/Mabelle - EP
+Seth Lakeman/Freedom Fields
 Seth Lakeman/Poor Man's Heaven
 Sex Pistols/Never Mind The Bollocks Here's The Sex Pistols
 Shawn Colvin/Polaroids_ A Greatest Hits Collection
