@@ -123,6 +123,7 @@ Anvil/This Is Thirteen
 Arc Angels/Arc Angels
 Arctic Monkeys/Whatever People Say I Am, That's What I'
 Ashley McBryde/Girl Going Nowhere
+Ashley Monroe/Sparrow
 Ashley Monroe/The Blade
 A Thousand Horses/Southernality
 Atlanta Rhythm Section/The Best Of Atlanta Rhythm Section
@@ -1273,6 +1274,7 @@ Kosheen/Resist
 Kraftwerk/Radioactivity
 Kris Delmhorst/Five Stories
 Kris Delmhorst/Songs for a Hurricane
+Kristian Bush/Southern Gravity
 Kristi Stassinopoulou/The Secrets Of The Rocks
 Krokus/Hardware
 Krokus/Headhunter
@@ -1866,6 +1868,7 @@ Rory Gallagher/Fresh Evidence
 Rory Gallagher/Jinx
 Rory Gallagher/Tattoo
 Rory Gallagher/Top Priority
+Rosanne Cash/The Very Best Of
 Roxy Music/Manifesto
 Röyksopp/Melody A.M_
 Rush/2112
