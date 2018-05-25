@@ -423,6 +423,10 @@ Compilations/All Time Greatest Movie Songs/All Time Greatest Movie Songs [Disc 1
 Compilations/All Time Greatest Movie Songs/All Time Greatest Movie Songs [Disc 2]
 Compilations/BMG Presents
 Compilations/C2C 2017
+Compilations/C2C 2018
+Compilations/C2C 2018/Kacey Musgraves C2C 2018
+Compilations/C2C 2018/Sugarland C2C 2018
+Compilations/C2C 2018/Various Artists C2C 2018
 Compilations/Clarkson Rocks [The Sun]
 Compilations/Classic Rock Anthems
 Compilations/Classic Rock - Bag Of Bones
@@ -1795,6 +1799,7 @@ Randy Houser/How Country Feels
 Randy Newman/Good Old Boys (Reprise_Rhino)
 Randy Newman/Johnny Cutler's Birthday
 Randy Newman/Lonely At The Top_ The Best Of Randy New
+Randy Rogers Band/Burning The Day
 Rascal Flatts/Back To Us (Deluxe Version)
 Rascal Flatts/Changed
 Rascal Flatts/Feels Like Today
@@ -2604,6 +2609,7 @@ Vivian Campbell/Two Sides Of If
 Vivian Stanshall/Teddy Boys Don't Knit
 Vixen/Vixen
 Voodoo Six/Fluke_
+Wade Bowen/If We Ever Make It Home
 Ward Thomas/Cartwheels
 Ward Thomas/From Where We Stand
 Warner E. Hodges/Centerline
