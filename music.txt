@@ -490,6 +490,7 @@ Compilations/Walk The Line Movie Soundtrack
 Compilations/We Will Rock You
 Compilations/We Will Rock You/We Will Rock You [Disc 1]
 Compilations/We Will Rock You/We Will Rock You [Disc 2]
+Compilations/Winds of Time
 Compilations/Wired
 Compilations/Wired/Wired (Disc 1)
 Compilations/Wired/Wired (Disc 2)
@@ -1504,6 +1505,7 @@ Martha Wainwright/Come Home to Mama
 Martha Wainwright/I Know You're Married But I've Got Feeli
 Martha Wainwright/Martha Wainwright
 Martina McBride/Evolution
+Martina McBride/Reckless
 Matt Berry/Witchazel
 Mauro Magellan/Four Corners Of Sweet Hell
 Mauro Magellan/My Groovy Road
