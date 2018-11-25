@@ -4,6 +4,7 @@
 10,000 Maniacs/MTV Unplugged
 10cc/The Best Of The Early Years
 38 Special/Bone Against Steel
+38 Special/Drivetrain
 38 Special/Flashback
 38 Special/Resolution
 38 Special/Wild-Eyed Southern Boys
@@ -688,6 +689,7 @@ Drive-By Truckers/American Band
 Drive-By Truckers/Brighter Than Creation's Dark
 Drive-By Truckers/Decoration Day
 Drive-By Truckers/English Oceans
+Drive-By Truckers/Go-Go Boots
 Drive-By Truckers/Pizza Deliverance
 Drive-By Truckers/Southern Rock Opera
 Drive-By Truckers/Southern Rock Opera/Southern Rock Opera _ Act I
@@ -697,6 +699,7 @@ Drive-By Truckers/The Dirty South
 Drivin' N Cryin'/Fly Me Courageous
 Drivin' N Cryin'/Smoke
 Drivin' N Cryin'/The Essential Live
+Drivin' N Cryin'/Whisper Tames The Lion
 Drivin' N Cryin'/Wrapped In Sky
 Dr. John/Locked Down
 Dr. John/The Very Best Of Dr. John
@@ -1286,6 +1289,7 @@ King's X/Ear Candy
 King's X/Faith Hope Love
 King's X/Gretchen Goes To Nebraska
 King's X/King's X
+King's X/Out Of The Silent Planet
 King's X/Tape Head
 King's X/XV
 Kip Moore/Slowheart
@@ -2609,6 +2613,7 @@ Tygers Of Pan Tang/1981-Spellbound
 Tygers Of Pan Tang/On the Prowl- The Best of Tygers of Pan Tang
 Tyketto/Dig In Deep
 Tyketto/Don't Come Easy
+Tyketto/Strength In Numbers
 Tyler Farr/Suffer In Peace
 U2/All That You Can't Leave Behind
 U2/How to Dismantle an Atomic Bomb
