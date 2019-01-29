@@ -8,9 +8,10 @@ Avoiding GDPR is not going to be possible for most companies, whereever they are
 
 In the context of reducing PII, here's how I might use the platform to investigate the storage of credit card numbers...
 
-GDPR Dashboard - Types of Personal Data
-1,640 credit card numbers:
-<image here>
+#### PII by Category
+1,640 credit card numbers:  
+[1640 credit card numbers](Ex/images/1640_credit_cards.jpg)
+
 
 Clicking on the "credit card" column...
 
