@@ -35,7 +35,7 @@ _Clicking on the "LTadashi" column...and then displaying the Results Pane..._
 <br/>
 #### Results Pane
 ![TRAVEL_AUTHORIZATION](images/TRAVEL_AUTHORIZATION.jpg)  
-There are a lot of "TRACE_AUTHORIZATION" files here, and they look to be related to different people, not LTadashi. Perhaps LTadashi has accessed files that he shouldn't.  
+There are a lot of "TRAVEL_AUTHORIZATION" files here, and they look to be related to different people, not LTadashi. Perhaps LTadashi has accessed files that he shouldn't.  
 <br/>
 <br/>
 _Let's review one of these files..._    
