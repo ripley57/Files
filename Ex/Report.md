@@ -29,6 +29,8 @@ files...
 
 <image>
 
+This shows us many Excel documents named "TRAVEL_AUTHORIZATION". These indeed look like they are related to travel, for different people. Perhaps they are all members of the Marketing team? A question that could be asked is, if these documents really do contain credit card numbers (might need to download and view the native to confirm this), is this author LTadashi correct in storing/keeping these documents? If these files do need to be stored, can we redact the credit card numbes, to make the files less responsive to a GDPR search? If so, can we introduce a company process or automation to do this?
+
 
 
 
