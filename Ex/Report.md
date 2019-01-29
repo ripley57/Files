@@ -15,8 +15,9 @@ Clicking on the "credit card" column...
 #### PII by Data Set
 A relatively large number of files (549) are in the Marketing data set:  
 [549_marketing](images/549_marketing.jpg)   
+Here we might question why we have a relatively large number of credit card numbers in the Marketing data set.  
   
-It might be questionable that we have a relatively large number of credit card numbersin the Marketing data set. Clicking on the "Marketing" column to drill-down futher...  
+Clicking on the "Marketing" column to drill-down futher...  
   
 #### PII by Author
 It looks like it might be worth examining the 513 files authored by LTadashi:  
