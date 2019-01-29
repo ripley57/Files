@@ -51,5 +51,4 @@ Hmm, is this number what is being recognised as a credit card number?
 * Is LTadashi definitely a member of the Marketing team and perhaps looking at files he shouldn't?
 * Perhaps he is actually a member of the Finance team and this is Finance-related data? Perhaps we therefore need to tweak the grouping of our data sources into data sets?  
 <br/>
-Whatever the outcome regarding LTadashi, these files are being recognised as containing credit card numbers. Is there a way to change this? 
-* Do we suggest that the customer review the files and then redact or delete them (if they don't need to keep them) - assuming the files are not part of any current eDiscovery legal hold? 
+Whatever the decision regarding the author LTadashi, these files are being recognised as containing credit card numbers. Is there a way to change this?  Do we recommend that the customer review the files and redact or delete them (if they don't need to keep them) - assuming the files are not part of any current eDiscovery legal hold? 
