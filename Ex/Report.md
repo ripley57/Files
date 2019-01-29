@@ -6,6 +6,30 @@ One of major use I can see of the product, which also benefits the speed of acti
 
 Avoiding GDPR is not going to be possible for most companies, whereever they are based in the world. But the impact of GDPR can be reduced if the amount of PII being stored can be kept to a minimum. Less  PII means sipler and thereofre quicker GDPR response times. In addition, limiting the volume and separate locations of stored PII (incluing duplicated PII) provides huge security benefits.
 
-In this context, of reducing PII, here's how I might use the platform...
+In the context of reducing PII, here's how I might use the platform to investigate the storage of credit card numbers...
+
+GDPR Dashboard - Types of Personal Data
+1,640 credit card numbers:
+<image here>
+
+Clicking on the "credit card" column...
+
+GDPR Dashboard - Top Authors of Data
+Looks like it is worth examining the 513 files authored by LTadashi:
+<image here>
+
+Clicking on the "LTadashi" column...
+
+GDPR Dashboard - Personal Data by Data Set
+This indicates that all this PII is being stored with Marketing data:
+<image>
+
+This might be reasonable - but to verify, we should displays the results view and examine some of the at might be reasonable 
+files...
+
+<image>
+
+
+
 
 
