@@ -1,6 +1,5 @@
 # mini GDPR report
-e a
-### Dashboards
+
 The **PII Overview** and **GDPR** dashboards are great for getting an immediate satellite view of the PII in your organisation:
 
 I don't know if the indexing of files can be done using "soft commits" (as is possible with Solr), but, if assuming that is possible, combining with continuous crawling (which I understand is possible), one could possibly claim that the dashboards provide a Near Real Time view of the PII in an organisation. I doubt few other similar products could claim this.
