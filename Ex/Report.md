@@ -25,11 +25,13 @@ It looks like it might be worth examining the 513 files authored by LTadashi:
   
 Clicking on the "LTadashi" column...and then displaying the Results Pane...  
   
+#### Results Pane
 [TRAVEL_AUTHORIZATION](images/TRAVEL_AUTHORIZATION.jpg)  
 There are a lot of "TRACE_AUTHORIZATION" files here, and they look to be related to different people, not LTadashi. Perhaps LTadashi has accessed files that he shouldn't.  
   
 Let's review one of these files...  
   
+#### Document Preview
 [Might_not_contain_credit_card_numbers](Might_not_contain_credit_card_numbers.jpg)  
 Hmm, is this number what is being recognised as a credit card number? We should probably download the native file and examine it to confirm.  If these are not credit card numbers, is there a problem with the platform? Irrespective, we should probably still question why all these files, referring to different people, are all authored by LTadashi. These files don't look to be related to marketing. Is LTadashi a member of the Markeing team, and therefore possibly looking at files he shouldn't, or perhaps he is a member of the "Finance" team and we therefore need to tweak the grouping of data sources into data sets?  
   
