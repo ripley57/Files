@@ -3,9 +3,11 @@
 One major use I can see of the product, which also benefits the speed of actioning GDPR requests, is to help organisations  control the growth of their stored PII. The platform enables an organization to not only see where their PII is located, but also to review it at an individual file level. This enables an organisation to determine if the appropriate people have access to the data and also if there is perhaps some PII that can be reduced or avoided entirely.  
   
 Avoiding GDPR is not going to be possible for most companies, wherever they are based in the world. But the impact of GDPR can be reduced if the amount of PII being stored can be kept to a minimum. Less  PII means simpler and therefore shorterr GDPR response times. In addition, limiting the volume and different locations of stored PII (including possibly duplicated PII) provides huge security benefits.
-
+<br/>
+<br/>
 In the context of reducing PII, here's how I might use the platform to investigate the storage of credit card numbers...
-
+<br/>
+<br/>
 #### PII by Category
 1,640 credit card numbers:  
 ![1640 credit card numbers](images/1640_credit_cards.jpg)
