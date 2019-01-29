@@ -11,7 +11,7 @@ In the context of reducing PII, here's how I might use the platform to investiga
 ![1640 credit card numbers](images/1640_credit_cards.jpg)
   
   
-Clicking on the "credit card" column...  
+_Clicking on the "credit card" column..._  
   
   
 #### PII by Data Set
@@ -20,7 +20,7 @@ A relatively large number of files (549) are in the Marketing data set:
 Here we might question why we have a relatively large number of credit card numbers in the Marketing data set.  
   
   
-Clicking on the "Marketing" column to drill-down futher...  
+_Clicking on the "Marketing" column to drill-down futher..._  
   
   
 #### PII by Author
@@ -28,7 +28,7 @@ It looks like it might be worth examining the 513 files authored by LTadashi:
 ![513_LTadashi](images/513_LTadashi.jpg)  
   
   
-Clicking on the "LTadashi" column...and then displaying the Results Pane...  
+_Clicking on the "LTadashi" column...and then displaying the Results Pane..._  
   
   
 #### Results Pane
@@ -36,7 +36,7 @@ Clicking on the "LTadashi" column...and then displaying the Results Pane...
 There are a lot of "TRACE_AUTHORIZATION" files here, and they look to be related to different people, not LTadashi. Perhaps LTadashi has accessed files that he shouldn't.  
   
   
-Let's review one of these files...  
+_Let's review one of these files..._    
   
   
 #### Document Preview
