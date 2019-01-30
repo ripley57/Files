@@ -12,6 +12,7 @@ Once the data has been ingested, the platform enables an organisation to quickly
 Given this information, an organisation is able to assess data security, and can explore ways to try and reduce their PII. Avoiding GDPR  is not going to be possible for most companies, wherever they are in the world. But the impact can be minimised if the amount of PII can be kept under control.
 <br/>
 <br/>
+<br/>
 In the context of understanding one element of PII, here's how I might use the platform to investigate the storage of credit card numbers...
 <br/>
 <br/>
