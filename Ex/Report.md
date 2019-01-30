@@ -1,11 +1,18 @@
-# mini GDPR report
+# mini GDPR report - Understanding your PII
 
-One major use I can see of the product, which also benefits the speed of actioning GDPR requests, is to help organisations  control the growth of their stored PII. The platform enables an organization to not only see where their PII is located, but also to review it at an individual file level. This enables an organisation to determine if the appropriate people have access to the data and also if there is perhaps some PII that can be reduced or avoided entirely.  
+#### Introduction
+One major aspect of the product is the ability it gives an organization to understand their PII and to keep an eye on its growth. Minimising PII has data security benefits, and also shortens the response times for GDPR-related requests. There is also the added benefit of reduced storage costs.  
   
-Avoiding GDPR is not going to be possible for most companies, wherever they are based in the world. But the impact of GDPR can be reduced if the amount of PII being stored can be kept to a minimum. Less  PII means simpler and therefore shorterr GDPR response times. In addition, limiting the volume and different locations of stored PII (including possibly duplicated PII) provides huge security benefits.
+Once the data has been ingested, the platform enables an organisation to quickly determine:  
+* How much PII they have.
+* Where that PII is located.
+* Who has access to that PII.
+* The context of the documents containing the PII.  
+  
+Given this information, an organisation is able to assess data security, and can explore ways to try and reduce their PII. Avoiding GDPR  is not going to be possible for most companies, wherever they are in the world. But the impact can be minimised if the amount of PII can be kept under control.
 <br/>
 <br/>
-In the context of reducing PII, here's how I might use the platform to investigate the storage of credit card numbers...
+In the context of undeesanding one element of PII, here's how I might use the platform to investigate the storage of credit card numbers...
 <br/>
 <br/>
 #### PII by Category
