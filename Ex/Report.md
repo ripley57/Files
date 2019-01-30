@@ -51,12 +51,11 @@ _Let's review one of these files..._
 <br/>
 #### Document Preview
 ![Might_not_contain_credit_card_numbers](images/Might_not_contain_credit_card_numbers.jpg)  
-Hmm, is this number what is being recognised as a credit card number? 
-* We should probably download the native file and examine it to confirm. 
-* If these are not credit card numbers, is there a problem with the platform? 
-* Credit card numbers or not, we should probably still question why all these files, referring to different people, are all authored by LTadashi. 
-* Are these files indeed related to marketing? 
-* Is LTadashi definitely a member of the Marketing team and perhaps looking at files he shouldn't?
-* Perhaps he is actually a member of the Finance team and this is Finance-related data? Perhaps we therefore need to tweak the grouping of our data sources into data sets?  
+Hmm, is this number what is being recognised as a credit card number? We should probably download the native file to confirm.
+    
+Notice how the platform leads the user to ask various questions about their data and processes:       
+* Does the organisation need to store these files? If yes, can some/all of the PII be redacted automatically on storage?
+* Why are these files, each referring to different people, all authored by LTadashi? Is he/she a manager? Is this suspicious?
+* Are these files actually related to Marketing? Perhaps the sources in each data set need to be adjusted.
 <br/>
-Whatever the decision regarding the author LTadashi, these files are being recognised as containing credit card numbers. Is there a way to change this?  Do we recommend that the customer review the files and redact or delete them (if they don't need to keep them) - assuming the files are not part of any current eDiscovery legal hold? 
+
