@@ -13,7 +13,7 @@ Given this information, an organisation is able to assess data security, and can
 <br/>
 <br/>
 <br/>
-In the context of understanding one element of PII, here's how I might use the platform to investigate the storage of credit card numbers...
+In the context of understanding your PII, here's how I might use the platform to investigate the storage of credit card numbers...
 <br/>
 <br/>
 #### PII by Category
