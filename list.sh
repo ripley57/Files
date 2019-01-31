@@ -13,10 +13,10 @@ then
 fi
 
 # Create a txt version.
-find . -type d -print | sed -n 's#\./[A-Z]-*[A-Z]*/\(.*/.*\)#\1#p' | sort > music.txt
+#find . -type d -print | sed -n 's#\./[A-Z]-*[A-Z]*/\(.*/.*\)#\1#p' | sort > music.txt
 
 # Create a pdf version.
 _date=$(date)
-cat music.txt | a2ps --center-title="Music: $_date" -1 -o - | ps2pdf - music.pdf
+cat music.txt | a2ps --font-size=1.0cm --center-title="Music: $_date" -1 -o - | ps2pdf - music.pdf
 
-(cp -f music.txt music.pdf git/Files/ && cd git/Files && git commit -m"Updated $_date" . && git push -u origin master)
+(cp -f music.txt music.pdf git/FilesPublic/ && cd git/FilesPublic && git commit -m"Updated $_date" . && git push -u origin master)
