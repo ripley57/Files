@@ -17,6 +17,6 @@ fi
 
 # Create a pdf version.
 _date=$(date)
-cat music.txt | a2ps --font-size=1.0cm --center-title="Music: $_date" -1 -o - | ps2pdf - music.pdf
+cat music.txt | a2ps --font-size=0.5cm --center-title="Music: $_date" -1 -o - | ps2pdf - music.pdf
 
 (cp -f music.txt music.pdf git/FilesPublic/ && cd git/FilesPublic && git commit -m"Updated $_date" . && git push -u origin master)
