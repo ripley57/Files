@@ -473,7 +473,7 @@ Compilations/Monsters Of Rock/Monsters Of Rock [Disc 1]
 Compilations/Monsters Of Rock/Monsters Of Rock [Disc 2]
 Compilations/Monsters Of Rock/Monsters Of Rock [Disc 3]
 Compilations/Nashville Outlaws
-Compilations/Nashville Outlaws/A Tribute To MÃ¶tley CrÃ¼e
+Compilations/Nashville Outlaws/A Tribute To Mötley Crüe
 Compilations/Now That's What I Call Country!
 Compilations/Now That's What I Call Country, Vol. 2
 Compilations/Now That's What I Call Country Vol. 4
@@ -1579,7 +1579,7 @@ Metallica/Death Magnetic
 Metallica/Garage Inc
 Metallica/Garage Inc/Garage Inc [Disc 1]
 Metallica/Garage Inc/Garage Inc [Disc 2]
-Metallica/Hardwiredâ€¦ To Self-Destruct
+Metallica/Hardwired To Self-Destruct
 Metallica/Kill 'Em All
 Metallica/Load
 Metallica/Master Of Puppets
@@ -1623,30 +1623,30 @@ Morrissey/Greatest Hits
 Morrissey/Vauxhall And I
 Morrissey/Viva Hate
 Mother Truckers/Something Worth Dying For
-MÃ¶tley CrÃ¼e/Dr. Feelgood
-MÃ¶tley CrÃ¼e/Girls Girls Girls
-MÃ¶tley CrÃ¼e/Motley Crue
-MÃ¶tley CrÃ¼e/Shout At The Devil
-MÃ¶tley CrÃ¼e/Supersonic Relics
-MÃ¶tley CrÃ¼e/Too Fast For Love
-MotÃ¶rhead/1916
-MotÃ¶rhead/Bomber
-MotÃ¶rhead/Deaf Forever
-MotÃ¶rhead/Inferno
-MotÃ¶rhead/Iron Fist
-MotÃ¶rhead/No Remorse
-MotÃ¶rhead/No Remorse/No Remorse (Disc 1)
-MotÃ¶rhead/No Remorse/No Remorse (Disc 2)
-MotÃ¶rhead/Overnight Sensation
-MotÃ¶rhead/Rock 'n' Roll
-MotÃ¶rhead/Sacrifice
-MotÃ¶rhead/Snake Bite Love
-MotÃ¶rhead/The Best Of Motorhead
-MotÃ¶rhead/The Best Of Motorhead/The Best Of MotÃ¶rhead (Disc 1)
-MotÃ¶rhead/The Best Of Motorhead/The Best Of Motorhead (Disc 2)
-MotÃ¶rhead/The Essential
-MotÃ¶rhead/The Essential/The Essential [Disc 1]
-MotÃ¶rhead/The Essential/The Essential [Disc 2]
+Mötley Crüe/Dr. Feelgood
+Mötley Crüe/Girls Girls Girls
+Mötley Crüe/Motley Crue
+Mötley Crüe/Shout At The Devil
+Mötley Crüe/Supersonic Relics
+Mötley Crüe/Too Fast For Love
+Motörhead/1916
+Motörhead/Bomber
+Motörhead/Deaf Forever
+Motörhead/Inferno
+Motörhead/Iron Fist
+Motörhead/No Remorse
+Motörhead/No Remorse/No Remorse (Disc 1)
+Motörhead/No Remorse/No Remorse (Disc 2)
+Motörhead/Overnight Sensation
+Motörhead/Rock 'n' Roll
+Motörhead/Sacrifice
+Motörhead/Snake Bite Love
+Motörhead/The Best Of Motorhead
+Motörhead/The Best Of Motorhead/The Best Of Motörhead (Disc 1)
+Motörhead/The Best Of Motorhead/The Best Of Motorhead (Disc 2)
+Motörhead/The Essential
+Motörhead/The Essential/The Essential [Disc 1]
+Motörhead/The Essential/The Essential [Disc 2]
 M People/Bizarre Fruit
 MSG/MSG
 Municipal Waste/Slime And Punishment
@@ -1953,7 +1953,7 @@ Rory Gallagher/Tattoo
 Rory Gallagher/Top Priority
 Rosanne Cash/The Very Best Of
 Roxy Music/Manifesto
-RÃ¶yksopp/Melody A.M_
+Röyksopp/Melody A.M_
 Rush/2112
 Rush/A Farewell To Kings
 Rush/Clockwork Angels
