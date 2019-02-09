@@ -373,6 +373,7 @@ Camel/Lunar Sea/Lunar_Sea_An_Anthology_1973-1985_[Disc_2_of_2]
 Camel/Mirage
 Camel/Moonmadness
 Camel/Nude
+Camel/Pressure Points
 Camel/Rain Dances
 Camel/Rajaz
 Camel/Stationary Traveller
@@ -2709,6 +2710,7 @@ Wade Bowen/The Blue Light Live
 Wade Bowen/The Given
 Ward Thomas/Cartwheels
 Ward Thomas/From Where We Stand
+Ward Thomas/Restless Minds
 Warner E. Hodges/Centerline
 Warner E. Hodges/Gunslinger
 Warner E. Hodges/Preachin The Gospel
