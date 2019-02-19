@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #
 # Description:
 #	Generate a list of my music albums.
@@ -13,9 +14,12 @@ then
 	echo "Error: This script must be run from the directory containing the music subdirs!"
 	exit 1
 fi
+ 
+# Generate a "recent additions/updates" albums list.
+bash ./recent_music.sh > music.txt.utf-8
 
-# Create a txt version.
-find . -type d -print | sed -n 's#\./[A-Z]-*[A-Z]*/\(.*/.*\)#\1#p' | sort > music.txt.utf-8
+# Followed by a full albums list.
+find . -type d -print | sed -n 's#\./[A-Z]-*[A-Z]*/\(.*/.*\)#\1#p' | sort >> music.txt.utf-8
 
 # Create a pdf version.
 #
