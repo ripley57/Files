@@ -16,7 +16,7 @@ then
 fi
  
 # Generate a "recent additions/updates" albums list.
-bash ./recent_music.sh > music.txt.utf-8
+./recent_music.sh > music.txt.utf-8
 
 # Followed by a full albums list.
 find . -type d -print | sed -n 's#\./[A-Z]-*[A-Z]*/\(.*/.*\)#\1#p' | sort >> music.txt.utf-8
