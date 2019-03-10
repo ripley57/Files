@@ -1,40 +1,38 @@
 
 ********** RECENT ADDITIONS/UPDATES IN THE LAST 100 DAYS ***********
-A-C/38 Special/Drivetrain
 A-C/Alice In Chains/Rainier Fog
+A-C/Ashley Campbell/The Lonely One
 A-C/Ashton Shepherd/Sounds So Good
 A-C/Bad Company/Holy Water
 A-C/Black Label Society/Book of Shadows
 A-C/Blake Shelton/Texoma Shore
 A-C/Brett Young/Ticket To L.A
-A-C/Brooks & Dunn/Steers & Stripes
 A-C/Camel/Pressure Points
-D-I/Danielle Bradbery/I Don t Believe We ve Met
-D-I/Drive-By Truckers/Go-Go Boots
-D-I/Drivin' N Cryin'/Whisper Tames The Lion
 D-I/Elle King/Shake The Spirit
+D-I/Fairground Saints/Magic
 D-I/Florida Georgia Line/Can't Say I Ain't Country
 D-I/Gov t Mule/Dark Side Of The Mule
 J-N/Joe Blanton/Good, Bad, Right Or Wrong
+J-N/Jon Pardi/Write You A Song
 J-N/Kane Brown/Experiment
 J-N/Keith Urban/Fuse (Deluxe)
 J-N/Keith Urban/Graffiti U
 J-N/Kenny Chesney/Songs For The Saints
-J-N/King's X/Out Of The Silent Planet
 J-N/Kip Moore/Room To Spare The Acoustic Sessions
 J-N/Lee Brice/I Don't Dance
+J-N/Lonestar/From There To Here - Greatest Hits
+J-N/Lucie Silvas/The Same Side
 J-N/Luke Bryan/What Makes You Country
 J-N/Maggie Rose/Cut to Impress
-J-N/Morgan Evans/Things That We Drink To
 J-N/Morgan Wallen/If I Know Me
 O-S/Randy Houser/Magnolia
 O-S/Robert Cray/4 Nights Of 40 Years Live
 O-S/Ruston Kelly/Dying Star
 O-S/Sarah Evans/Slow Me Down
 O-S/Somebody's Mind/MySpace
-T/Tyketto/Strength In Numbers
 U-Z/Ward Thomas/Restless Minds
 U-Z/Warren Haynes/Ashes & Dust
+U-Z/Whitesnake/The Early Years
 ***************** END OF RECENT ADDITIONS/UPDATES  *****************
 
 10,000 Maniacs/Campfire Songs (Disc 1)
@@ -164,6 +162,7 @@ Anthrax/Worship Music
 Anvil/This Is Thirteen
 Arc Angels/Arc Angels
 Arctic Monkeys/Whatever People Say I Am, That's What I'
+Ashley Campbell/The Lonely One
 Ashley McBryde/Girl Going Nowhere
 Ashley Monroe/Sparrow
 Ashley Monroe/The Blade
@@ -851,6 +850,7 @@ Extreme/Get The Funk Out (Single)
 Extreme/III Sides To Every Story
 Extreme/Pornograffitti
 Fairground Saints/Fairground Saints
+Fairground Saints/Magic
 Fairport Convention/Meet On The Ledge_ The Collection
 Fairport Convention/Then & Now 1982-1996_ The Best Of Fairpo
 Fairport Convention/Who Knows Where The Time Goes_
@@ -1243,6 +1243,7 @@ Joni Mitchell/The Hissing Of Summer Lawns
 Joni Mitchell/Turbulent Indigo
 Joni Mitchell/Wild Things Run Fast
 Jon Pardi/California Sunrise
+Jon Pardi/Write You A Song
 Jordan Davis/Home State
 Joss Stone/The Soul Sessions
 Journey/Best of
@@ -1479,6 +1480,7 @@ Living Colour/Stain
 Living Colour/Time's Up
 LOCASH/The Fighters
 London Grammar/If You Wait
+Lonestar/From There To Here - Greatest Hits
 Lonestar/Lonely Grill
 Love/Forever Changes
 Love Hate/Blackout In The Red Room
@@ -1488,6 +1490,7 @@ Love Hate/Let's Rumble
 Love Hate/Wasted In America
 Lucie Silvas/Breathe In
 Lucie Silvas/Letters To Ghosts
+Lucie Silvas/The Same Side
 Lucinda Williams/Car Wheels On A Gravel Road
 Lucinda Williams/Down Where The Spirit Meets The Bone
 Lucinda Williams/Lucinda Williams
@@ -2794,6 +2797,7 @@ Whitesnake/Ready An' Willing
 Whitesnake/Saints & Sinners
 Whitesnake/Slide It In
 Whitesnake/Slip of the Tongue
+Whitesnake/The Early Years
 White Town/_Abort, Retry, Fail_ (Single)
 Willie Nelson/God s Problem Child
 Winger/In The Heart Of The Young
