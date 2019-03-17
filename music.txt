@@ -9,12 +9,14 @@ A-C/Black Label Society/Book of Shadows
 A-C/Blake Shelton/Texoma Shore
 A-C/Brett Young/Ticket To L.A
 A-C/Camel/Pressure Points
+A-C/Carrie Underwood/Cry Pretty
 D-I/Elle King/Shake The Spirit
 D-I/Fairground Saints/Magic
 D-I/Florida Georgia Line/Can't Say I Ain't Country
 D-I/Gov t Mule/Dark Side Of The Mule
 J-N/Joe Blanton/Good, Bad, Right Or Wrong
 J-N/Jon Pardi/Write You A Song
+J-N/Kacey Musgraves/Golden Hour
 J-N/Kane Brown/Experiment
 J-N/Keith Urban/Fuse (Deluxe)
 J-N/Keith Urban/Graffiti U
@@ -27,6 +29,7 @@ J-N/Luke Bryan/What Makes You Country
 J-N/Maggie Rose/Cut to Impress
 J-N/Maverick Mag/Special C2C Issue
 J-N/Morgan Wallen/If I Know Me
+J-N/The Magpie Salute/High Water I
 O-S/Randy Houser/Magnolia
 O-S/Robert Cray/4 Nights Of 40 Years Live
 O-S/Ruston Kelly/Dying Star
@@ -434,6 +437,7 @@ Carlos Santana/Supernatural
 Carole King/Tapestry
 Carrie Underwood/Blown Away
 Carrie Underwood/Carnival Ride
+Carrie Underwood/Cry Pretty
 Carrie Underwood/Some Hearts
 Carrie Underwood/Storyteller
 Cassadee Pope/Frame By Frame
@@ -1282,6 +1286,7 @@ Judas Priest/Turbo
 Judas Priest/Turbo 30
 Judas Priest/Unleashed In The East
 Justin Moore/Off The Beaten Path
+Kacey Musgraves/Golden Hour
 Kacey Musgraves/Pageant Material
 Kacey Musgraves/Same Trailer Different Park
 Kaiser Chiefs/Employment
@@ -2457,6 +2462,7 @@ The Lemonheads/The Best Of The Lemonheads
 The Lemonheads/The Lemonheads
 The Little Willies/The Little Willies
 The Magic Numbers/The Magic Numbers
+The Magpie Salute/High Water I
 The Marshall Tucker Band/Heard It In A Love Song
 The Marshall Tucker Band/Where We All Belong
 Them Crooked Vultures/Them Crooked Vultures
