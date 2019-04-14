@@ -5,18 +5,19 @@ A-C/Ashley Campbell/The Lonely One
 A-C/Ashton Lane/The Journey
 A-C/Bad Company/Holy Water
 A-C/Beth Nielsen Chapman/Deeper Still
-A-C/Black Label Society/Book of Shadows
 A-C/Blake Shelton/Texoma Shore
-A-C/Brett Young/Ticket To L.A
 A-C/Camel/Pressure Points
 A-C/Carrie Underwood/Cry Pretty
 D-I/Elle King/Shake The Spirit
 D-I/Fairground Saints/Magic
 D-I/Florida Georgia Line/Can't Say I Ain't Country
+D-I/Gary Moore/After Hours
+D-I/Gary Moore/After The War
+D-I/Glenn Hughes/Music For The Divine
 D-I/Gov t Mule/Dark Side Of The Mule
+J-N/Jerry Douglas/Traveler
 J-N/Jon Pardi/Write You A Song
 J-N/Kacey Musgraves/Golden Hour
-J-N/Kane Brown/Experiment
 J-N/Keith Urban/Fuse (Deluxe)
 J-N/Keith Urban/Graffiti U
 J-N/Kenny Chesney/Songs For The Saints
@@ -25,8 +26,8 @@ J-N/Lonestar/From There To Here - Greatest Hits
 J-N/Lucie Silvas/The Same Side
 J-N/Maggie Rose/Cut to Impress
 J-N/Maverick Mag/Special C2C Issue
-J-N/Morgan Wallen/If I Know Me
 J-N/The Magpie Salute/High Water I
+O-S/Rammstein/Rosenrot
 O-S/Randy Houser/Magnolia
 O-S/Robert Cray/4 Nights Of 40 Years Live
 O-S/Ruston Kelly/Dying Star
@@ -34,6 +35,7 @@ O-S/Sara Evans/Real Fine Place
 O-S/Sara Evans/Slow Me Down
 O-S/Sigrid/Sucker Punch
 O-S/Somebody's Mind/MySpace
+O-S/Stone Temple Pilots/No4
 U-Z/Ward Thomas/Restless Minds
 U-Z/Warren Haynes/Ashes & Dust
 U-Z/Whitesnake/The Early Years
@@ -957,6 +959,8 @@ Garth Brooks/The Ultimate Hits/The Ultimate Hits [Disc 2]
 Gary Clark Jr/Gary Clark Jr. Live
 Gary Clark Jr/Gary Clark Jr. Live/Gary Clark Jr. Live [Disc 1]
 Gary Clark Jr/Gary Clark Jr. Live/Gary Clark Jr. Live [Disc 2]
+Gary Moore/After Hours
+Gary Moore/After The War
 Gary Moore/Ballads & Blues 1982-1994
 Gary Moore/Corridors Of Power
 Gary Moore/Still Got The Blues
@@ -980,6 +984,7 @@ Gin Blossoms/Congratulations...I'm Sorry
 Gin Blossoms/New Miserable Experience
 Girlschool/The Collection
 Glasvegas/Glasvegas
+Glenn Hughes/Music For The Divine
 Glenn Tilbrook/Pandemonium Ensues
 Glenn Tilbrook/The Incomplete
 Glenn Tilbrook/The Incomplete (Acoustic)
@@ -1165,6 +1170,7 @@ Jem/Finally Woken
 Jenny Lewis/I'm Having Fun Now
 Jenny Lewis/Rabbit Fur Coat
 Jenny Lewis/The Voyager
+Jerry Douglas/Traveler
 Jess and the Bandits/Here We Go Again [Deluxe]
 Jess and the Bandits/Smoke and Mirrors
 Jessie J/Who You Are
@@ -1919,6 +1925,7 @@ Rainbow/The Best Of Rainbow
 Rainbow/The Best Of Rainbow/The Best Of Rainbow (Disc 1)
 Rainbow/The Best Of Rainbow/The Best Of Rainbow (Disc 2)
 Rainbow/The Masters Collection
+Rammstein/Rosenrot
 Rammstein/Sehnsucht
 Randy Houser/Fired Up
 Randy Houser/How Country Feels
@@ -2244,6 +2251,7 @@ Stone Sour/Audio Secrecy
 Stone Sour/Come What (Ever) May
 Stone Sour/Stone Sour
 Stone Temple Pilots/Core
+Stone Temple Pilots/No4
 Stone Temple Pilots/Thank You
 Stone Temple Pilots/Tiny Music...Songs From The Vatican Gift
 Striking Matches/Nothing But The Silence
