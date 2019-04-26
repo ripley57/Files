@@ -14,30 +14,23 @@ D-I/Florida Georgia Line/Can't Say I Ain't Country
 D-I/Gary Moore/After Hours
 D-I/Gary Moore/After The War
 D-I/Glenn Hughes/Music For The Divine
-D-I/Gov t Mule/Dark Side Of The Mule
 J-N/Jerry Douglas/Traveler
 J-N/Jon Pardi/Write You A Song
 J-N/Kacey Musgraves/Golden Hour
 J-N/Keith Urban/Fuse (Deluxe)
 J-N/Keith Urban/Graffiti U
 J-N/Kenny Chesney/Songs For The Saints
-J-N/Lee Brice/I Don't Dance
 J-N/Lonestar/From There To Here - Greatest Hits
 J-N/Lucie Silvas/The Same Side
-J-N/Maggie Rose/Cut to Impress
 J-N/Maverick Mag/Special C2C Issue
 J-N/The Magpie Salute/High Water I
 O-S/Rammstein/Rosenrot
-O-S/Randy Houser/Magnolia
-O-S/Robert Cray/4 Nights Of 40 Years Live
-O-S/Ruston Kelly/Dying Star
+O-S/Randy Rogers Band/Hellbent
 O-S/Sara Evans/Real Fine Place
-O-S/Sara Evans/Slow Me Down
 O-S/Sigrid/Sucker Punch
 O-S/Somebody's Mind/MySpace
 O-S/Stone Temple Pilots/No4
 U-Z/Ward Thomas/Restless Minds
-U-Z/Warren Haynes/Ashes & Dust
 U-Z/Whitesnake/The Early Years
 ***************** END OF RECENT ADDITIONS/UPDATES  *****************
 
@@ -1934,6 +1927,7 @@ Randy Newman/Good Old Boys (Reprise_Rhino)
 Randy Newman/Johnny Cutler's Birthday
 Randy Newman/Lonely At The Top_ The Best Of Randy New
 Randy Rogers Band/Burning The Day
+Randy Rogers Band/Hellbent
 Randy Rogers Band/Just A Matter Of Time
 Randy Rogers Band/Like It Used To Be
 Randy Rogers Band/Nothing Shines Like Neon
