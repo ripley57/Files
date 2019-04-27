@@ -8,6 +8,7 @@ A-C/Beth Nielsen Chapman/Deeper Still
 A-C/Blake Shelton/Texoma Shore
 A-C/Camel/Pressure Points
 A-C/Carrie Underwood/Cry Pretty
+A-C/The Alan Parsons Project/The Secret
 D-I/Elle King/Shake The Spirit
 D-I/Fairground Saints/Magic
 D-I/Florida Georgia Line/Can't Say I Ain't Country
@@ -2332,6 +2333,7 @@ The Alan Parsons Project/Gaudi
 The Alan Parsons Project/I Robot
 The Alan Parsons Project/Pyramid
 The Alan Parsons Project/Stereotomy
+The Alan Parsons Project/The Secret
 The Alan Parsons Project/The Turn Of A Friendly Card
 The Allman Brothers Band/A Decade Of Hits
 The Allman Brothers Band/At Fillmore East
