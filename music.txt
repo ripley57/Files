@@ -23,13 +23,13 @@ J-N/Keith Urban/Graffiti U
 J-N/Kenny Chesney/Songs For The Saints
 J-N/Lonestar/From There To Here - Greatest Hits
 J-N/Lucie Silvas/The Same Side
+J-N/Maddie & Tae/One Heart To Another
 J-N/Maverick Mag/Special C2C Issue
 J-N/The Magpie Salute/High Water I
 O-S/Rammstein/Rosenrot
 O-S/Randy Rogers Band/Hellbent
 O-S/Sara Evans/Real Fine Place
 O-S/Sigrid/Sucker Punch
-O-S/Somebody's Mind/MySpace
 O-S/Stone Temple Pilots/No4
 U-Z/Ward Thomas/Restless Minds
 U-Z/Whitesnake/The Early Years
@@ -1544,6 +1544,7 @@ Lynyrd Skynyrd/Thyrty - The 30th Anniversary Collection (Disc 2)
 Lynyrd Skynyrd/Turn It Up!
 Lynyrd Skynyrd/Twenty
 Lynyrd Skynyrd/Vicious Cycle
+Maddie & Tae/One Heart To Another
 Maddie & Tae/Start Here
 Madness/Complete Madness
 Madness/Madness Live [Mail on Sunday]
