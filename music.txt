@@ -1,39 +1,33 @@
 
 ********** RECENT ADDITIONS/UPDATES IN THE LAST 100 DAYS ***********
-A-C/Ashley Campbell/The Lonely One
 A-C/Ashton Lane/The Journey
-A-C/Beth Nielsen Chapman/Deeper Still
-A-C/Carrie Underwood/Cry Pretty
 A-C/The Alan Parsons Project/The Secret
 D-I/Eliza Carthy/Restitute
 D-I/Fairground Saints/Magic
 D-I/Ferris & Sylvester/Ferris & Sylvester
+D-I/FM/Live No Electricity Required
 D-I/Gary Moore/After Hours
 D-I/Gary Moore/After The War
 D-I/Glenn Hughes/Music For The Divine
+D-I/Gone West/Tides
 J-N/Jake Owen/Greetings From...Jake
 J-N/Jerry Douglas/Traveler
 J-N/John Butler Trio/Home
 J-N/John Butler Trio/Live At Red Rocks
+J-N/John Butler Trio/Sunrise Over Sea (Internet Album)
 J-N/John Butler Trio/Tin Shed Tales
-J-N/Jon Pardi/Write You A Song
-J-N/Kacey Musgraves/Golden Hour
-J-N/Lonestar/From There To Here - Greatest Hits
-J-N/Lucie Silvas/The Same Side
 J-N/Maddie & Tae/One Heart To Another
-J-N/Maverick Mag/Special C2C Issue
-J-N/The Magpie Salute/High Water I
+J-N/Martina McBride/Evolution
+O-S/Pink Floyd/The Endless River (single track)
 O-S/Rammstein/Rosenrot
 O-S/Randy Rogers Band/Hellbent
 O-S/Runaway June/Runaway June - EP
-O-S/Sara Evans/Real Fine Place
 O-S/Sigrid/Sucker Punch
 O-S/Stone Temple Pilots/No4
 T/Tedeschi Trucks Band/Revelator
 T/Thomas Rhett/Center Point Road
 T/Thompson Square/Masterpiece
 T/Twisted Sister/Live At The Marquee 1983
-U-Z/Whitesnake/The Early Years
 ***************** END OF RECENT ADDITIONS/UPDATES  *****************
 
 10,000 Maniacs/Campfire Songs (Disc 1)
@@ -990,6 +984,7 @@ Glenn Tilbrook/Transatlantic Ping Pong
 Glenn Tipton/Baptizm Of Fire
 Goldfrapp/Felt Mountain
 Goldie Lookin' Chain/Greatest Hits
+Gone West/Tides
 Good Charlotte/The Chronicles Of Life And Death
 Good Charlotte/The Young and The Hopeless
 Gov t Mule/Dark Side Of The Mule
@@ -1215,6 +1210,7 @@ Joey Ramone/Don't Worry About Me
 Joey Ramone/Ya Know
 John Butler Trio/Home
 John Butler Trio/Live At Red Rocks
+John Butler Trio/Sunrise Over Sea (Internet Album)
 John Butler Trio/Tin Shed Tales
 John Frusciante/Shadows Collide With People
 John Hiatt/Dirty Jeans and Mudslide Hymns
@@ -1858,6 +1854,7 @@ Pink Floyd/Echoes The Best Of Pink Floyd
 Pink Floyd/Echoes The Best Of Pink Floyd/Echoes_ The Best Of Pink Floyd (Disc 1)
 Pink Floyd/Echoes The Best Of Pink Floyd/Echoes_ The Best Of Pink Floyd (Disc 2)
 Pink Floyd/The Endless River
+Pink Floyd/The Endless River (single track)
 Pink Floyd/Wish You Were Here
 Pink/Funhouse
 Pink/I'm Not Dead
