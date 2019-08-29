@@ -1,33 +1,36 @@
 
 ********** RECENT ADDITIONS/UPDATES IN THE LAST 100 DAYS ***********
-A-C/Ashton Lane/The Journey
-A-C/The Alan Parsons Project/The Secret
+A-C/Camel/Breathless
+A-C/Compilations/MySpace Compilation 2008
+A-C/The Black Crowes/By Your Side
+D-I/Damn Yankees/Don't Tread
+D-I/Doves/Some Cities
 D-I/Eliza Carthy/Restitute
 D-I/Fairground Saints/Magic
 D-I/Ferris & Sylvester/Ferris & Sylvester
 D-I/FM/Live No Electricity Required
-D-I/Gary Moore/After Hours
-D-I/Gary Moore/After The War
-D-I/Glenn Hughes/Music For The Divine
 D-I/Gone West/Tides
+D-I/The Heys
 J-N/Jake Owen/Greetings From...Jake
-J-N/Jerry Douglas/Traveler
+J-N/Jenny Lewis/On The Line
+J-N/JetKing
 J-N/John Butler Trio/Home
 J-N/John Butler Trio/Live At Red Rocks
 J-N/John Butler Trio/Sunrise Over Sea (Internet Album)
 J-N/John Butler Trio/Tin Shed Tales
-J-N/Maddie & Tae/One Heart To Another
+J-N/John Mellencamp/The Best That I Could Do
+J-N/King's X/Please Come Home... Mr. Bulbous
 J-N/Martina McBride/Evolution
+J-N/Molly Hatchet/Warriors Of The Rainbow Bridge
 O-S/Pink Floyd/The Endless River (single track)
-O-S/Rammstein/Rosenrot
-O-S/Randy Rogers Band/Hellbent
-O-S/Runaway June/Runaway June - EP
-O-S/Sigrid/Sucker Punch
-O-S/Stone Temple Pilots/No4
+O-S/Runaway June/Blue Roses
+O-S/Saxon/Unleash The Beast
+O-S/Somebody's Mind/Somebody's Mind - MySpace (More)
 T/Tedeschi Trucks Band/Revelator
 T/Thomas Rhett/Center Point Road
 T/Thompson Square/Masterpiece
 T/Twisted Sister/Live At The Marquee 1983
+U-Z/Van Zant/Brother To Brother
 ***************** END OF RECENT ADDITIONS/UPDATES  *****************
 
 10,000 Maniacs/Campfire Songs (Disc 1)
@@ -257,6 +260,7 @@ Blackfoot/Siogo
 Blackfoot/Strikes
 Blackfoot/Tomcattin'
 Blackfoot/Verticle Smiles
+Black Kids/I'm Not Gonna Teach Your Boyfriend How To Dance With You (single)
 Black Label Society/1919 Eternal
 Black Label Society/Book of Shadows
 Black Label Society/Catacombs Of The Black Vatican
@@ -395,6 +399,7 @@ Camel/A Live Record
 Camel/A Live Record/A Live Record (Disc 1)
 Camel/A Live Record/A Live Record (Disc 2)
 Camel/A Nod And A Wink
+Camel/Breathless
 Camel/Camel
 Camel/Camel_NeverLetGo
 Camel/Coming of Age
@@ -511,6 +516,7 @@ Compilations/Monsters Of Rock
 Compilations/Monsters Of Rock/Monsters Of Rock [Disc 1]
 Compilations/Monsters Of Rock/Monsters Of Rock [Disc 2]
 Compilations/Monsters Of Rock/Monsters Of Rock [Disc 3]
+Compilations/MySpace Compilation 2008
 Compilations/Nashville Outlaws
 Compilations/Nashville Outlaws/A Tribute To Mötley Crüe
 Compilations/Now That's What I Call Country!
@@ -579,6 +585,7 @@ Daft Punk/One More Time (Single)
 Damien Rice/9
 Damien Rice/O
 Damn Yankees/Damn Yankees
+Damn Yankees/Don't Tread
 Dan Baird/Buffalo Nickel
 Dan Baird/Circus Life
 Dan Baird/Circus Life/Circus Life
@@ -724,6 +731,7 @@ Dolores O'riordan/Are You Listening_
 Don Henley/The Very Best Of
 Double Trouble/Been A Long Time
 Doves/Lost Souls
+Doves/Some Cities
 Doyle Bramhall II/Jellycream
 Doyle Bramhall II/Rich Man
 Doyle Bramhall II/Welcome
@@ -1079,10 +1087,9 @@ Human League/Essential
 Human League/Love And Dancing
 Ian Brown/Golden Greats
 Ian Dury & The Blockheads/Reasons To Be Cheerful
-Ian Gillan/High
-Ian Gillan/Mercury
-Ian Gillan/Mercury/Mercury High (Disc 1)
-Ian Gillan/Mercury/Mercury High (Disc 2)
+Ian Gillan/Mercury High
+Ian Gillan/Mercury High/Mercury High (Disc 1)
+Ian Gillan/Mercury High/Mercury High (Disc 2)
 Inspiral Carpets/Revenge Of The Goldfish
 Interpol/Our Love To Admire
 INXS/X
@@ -1161,6 +1168,7 @@ Jefferson Airplane/The Best Of Jefferson Airplane
 Jem/Down To Earth
 Jem/Finally Woken
 Jenny Lewis/I'm Having Fun Now
+Jenny Lewis/On The Line
 Jenny Lewis/Rabbit Fur Coat
 Jenny Lewis/The Voyager
 Jerry Douglas/Traveler
@@ -1234,6 +1242,7 @@ John Mayer/Continuum
 John Mayer/Heavier Things
 John Mayer/Room for Squares
 John Mayer/The Search For Everything
+John Mellencamp/The Best That I Could Do
 Johnny Winter/Experience
 Joni Mitchell/Blue
 Joni Mitchell/Both Sides Now
@@ -1356,6 +1365,7 @@ King's X/Faith Hope Love
 King's X/Gretchen Goes To Nebraska
 King's X/King's X
 King's X/Out Of The Silent Planet
+King's X/Please Come Home... Mr. Bulbous
 King's X/Tape Head
 King's X/XV
 Kip Moore/Room To Spare The Acoustic Sessions
@@ -1676,6 +1686,7 @@ Molly Hatchet/Molly Hatchet
 Molly Hatchet/No Guts... No Glory
 Molly Hatchet/Silent Reign Of Heroes
 Molly Hatchet/Take No Prisoners
+Molly Hatchet/Warriors Of The Rainbow Bridge
 Monaco/What Do You Want From Me_ (Single)
 Monster Magnet/Superjudge
 Monsters Of Folk/Monsters Of Folk
@@ -2020,6 +2031,7 @@ Rory Gallagher/Top Priority
 Rosanne Cash/The Very Best Of
 Roxy Music/Manifesto
 Röyksopp/Melody A.M_
+Runaway June/Blue Roses
 Runaway June/Runaway June - EP
 Rush/2112
 Rush/A Farewell To Kings
@@ -2088,6 +2100,7 @@ Saxon/The Very Best Of 1979-1988
 Saxon/The Very Best Of 1979-1988/The Very Best Of 1979-1988 [Disc 1]
 Saxon/The Very Best Of 1979-1988/The Very Best Of 1979-1988 [Disc 2]
 Saxon/The Very Best Of 1979-1988/The Very Best Of 1979-1988 [Disc 3]
+Saxon/Unleash The Beast
 Saxon/Wheels Of Steel
 Scarlett O'/I Wanna Be Free (To Be With Him) (single)
 Scars on Broadway/Scars on Broadway
@@ -2170,6 +2183,7 @@ Snow Patrol/Up To Now/Up To Now [Disc 2]
 S.O.D/Speak English or Die (30th Anniversary Edition)
 Somebody's Mind/MySpace
 Somebody's Mind/Somebody's Mind
+Somebody's Mind/Somebody's Mind - MySpace (More)
 Somebody's Mind/The British Voodoo
 Sonic Youth/Goo
 Soul Asylum/Grave Dancers Union
@@ -2364,6 +2378,7 @@ The Beatles/A Hard Day's Night
 The Beautiful South/Carry On Up The Charts_ The Best Of The
 The Black Crowes/Amorica
 The Black Crowes/Before The Frost.._
+The Black Crowes/By Your Side
 The Black Crowes/Greatest Hits 1990-1999
 The Black Crowes/Lions
 The Black Crowes/Live
@@ -2554,6 +2569,8 @@ The Shake/Screenbeats/Shake Music/good
 The Shake/Screenbeats/Shake Music/live
 The Shake/Screenbeats/Shake Music/Screenbeats Dec 07
 The Shake/The Shake
+The Shake/The Shake - Compilation
+The Shake/The Shake (new songs 2008)
 The Shins/Chutes Too Narrow
 The Shins/Oh, Inverted World
 The Shires/Brave
@@ -2766,6 +2783,7 @@ Van Halen/The Best Of Both Worlds/The Best Of Both Worlds [Disc 1]
 Van Halen/The Best Of Both Worlds/The Best Of Both Worlds [Disc 2]
 Van Halen/Van Halen
 Van Halen/Women And Children First
+Van Zant/Brother To Brother
 Van Zant/Get Right With The Man
 Van Zant/My Kind Of Country
 VCMG/Ssss
