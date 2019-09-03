@@ -3,32 +3,30 @@
 A-C/Camel/Breathless
 A-C/Compilations/MySpace Compilation 2008
 A-C/The Black Crowes/By Your Side
+A-C/The Cult/Ceremony
 D-I/Damn Yankees/Don't Tread
 D-I/Doves/Some Cities
 D-I/Eliza Carthy/Restitute
 D-I/Fairground Saints/Magic
-D-I/Ferris & Sylvester/Ferris & Sylvester
+D-I/FM/Dead Man's Shoes
 D-I/FM/Live No Electricity Required
 D-I/Gone West/Tides
 D-I/The Heys
 J-N/Jake Owen/Greetings From...Jake
 J-N/Jenny Lewis/On The Line
 J-N/JetKing
-J-N/John Butler Trio/Home
-J-N/John Butler Trio/Live At Red Rocks
 J-N/John Butler Trio/Sunrise Over Sea (Internet Album)
-J-N/John Butler Trio/Tin Shed Tales
 J-N/John Mellencamp/The Best That I Could Do
 J-N/King's X/Please Come Home... Mr. Bulbous
 J-N/Martina McBride/Evolution
+J-N/Midland/Let It Roll
 J-N/Molly Hatchet/Warriors Of The Rainbow Bridge
+J-N/Mother Love Bone/Mother Love Bone
 O-S/Pink Floyd/The Endless River (single track)
 O-S/Runaway June/Blue Roses
 O-S/Saxon/Unleash The Beast
 O-S/Somebody's Mind/Somebody's Mind - MySpace (More)
-T/Tedeschi Trucks Band/Revelator
 T/Thomas Rhett/Center Point Road
-T/Thompson Square/Masterpiece
 T/Twisted Sister/Live At The Marquee 1983
 U-Z/Van Zant/Brother To Brother
 ***************** END OF RECENT ADDITIONS/UPDATES  *****************
@@ -909,6 +907,7 @@ Florida Georgia Line/Dig Your Roots
 FM/Aphrodisiac
 FM/Atomic Generation
 FM/City Limits
+FM/Dead Man's Shoes
 FM/Futurama
 FM/Heroes and Villains
 FM/Indiscreet
@@ -1671,6 +1670,7 @@ Michael Schenker/MSG
 Michael Schenker/One Night At Budokan (Remaster)
 Michelle Branch/Hotel Paper
 Michelle Branch/The Spirit Room
+Midland/Let It Roll
 Midland/On The Rocks
 Million Dollar Reload/A Sinner s Saint
 Miranda Lambert/Crazy Ex-Girlfriend
@@ -1696,6 +1696,7 @@ Morrissey/Bona Drag
 Morrissey/Greatest Hits
 Morrissey/Vauxhall And I
 Morrissey/Viva Hate
+Mother Love Bone/Mother Love Bone
 Mother Truckers/Something Worth Dying For
 Mötley Crüe/Dr. Feelgood
 Mötley Crüe/Girls Girls Girls
@@ -2431,6 +2432,7 @@ The Cribs/Moving Pictures
 The Cribs/The Cribs
 The Cribs/The New Fellas
 The Cruel Sea/Honeymoon Is Over
+The Cult/Ceremony
 The Cult/Electric
 The Cult/Sonic Temple
 The Cure/Pornography
