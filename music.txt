@@ -11,28 +11,24 @@ A-C/The Black Crowes/By Your Side
 A-C/The Cult/Ceremony
 D-I/Damn Yankees/Don't Tread
 D-I/Doves/Some Cities
-D-I/Eliza Carthy/Restitute
 D-I/Fairground Saints/Magic
 D-I/FM/Dead Man's Shoes
-D-I/FM/Live No Electricity Required
 D-I/Gone West/Tides
 D-I/The Heys
-J-N/Jake Owen/Greetings From...Jake
 J-N/Jenny Lewis/On The Line
 J-N/JetKing
 J-N/John Butler Trio/Sunrise Over Sea (Internet Album)
 J-N/John Mellencamp/The Best That I Could Do
 J-N/King's X/Please Come Home... Mr. Bulbous
-J-N/Martina McBride/Evolution
+J-N/Lainey Wilson/Lainey Wilson - EP
+J-N/Lainey Wilson/Redneck Hollywood
 J-N/Midland/Let It Roll
 J-N/Molly Hatchet/Warriors Of The Rainbow Bridge
 J-N/Mother Love Bone/Mother Love Bone
-O-S/Pink Floyd/The Endless River (single track)
 O-S/Runaway June/Blue Roses
 O-S/Saxon/Unleash The Beast
 O-S/Somebody's Mind/Somebody's Mind - MySpace (More)
-T/Thomas Rhett/Center Point Road
-T/Twisted Sister/Live At The Marquee 1983
+O-S/Striking Matches/Morning
 U-Z/Van Zant/Brother To Brother
 ***************** END OF RECENT ADDITIONS/UPDATES  *****************
 
@@ -1437,6 +1433,8 @@ Lady Antebellum/Own The Night
 L_A_Guns/Hollywood Vampires
 L_A_Guns/Made in Milan
 L_A_Guns/The Missing Peace
+Lainey Wilson/Lainey Wilson - EP
+Lainey Wilson/Redneck Hollywood
 Larkin Poe/Kin
 La Roux/La Roux
 Laura Marling/I Speak Because I Can
@@ -2280,6 +2278,7 @@ Stone Temple Pilots/Core
 Stone Temple Pilots/No4
 Stone Temple Pilots/Thank You
 Stone Temple Pilots/Tiny Music...Songs From The Vatican Gift
+Striking Matches/Morning
 Striking Matches/Nothing But The Silence
 Suede/Dog Man Star
 Sugar/Beaster (Remastered)
