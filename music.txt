@@ -4,6 +4,7 @@ A-C/Camel/73-75 Gods Of Light [Live]
 A-C/Camel/Breathless
 A-C/Camel/On The Road 1972 [Live]
 A-C/Camel/On The Road 1982 [Live]
+A-C/Carrie Underwood/Play On
 A-C/Colin Bass/An Outcast of the Islands
 A-C/Colin Bass/Live At Polskie Radio 3
 A-C/Compilations/MySpace Compilation 2008
@@ -11,20 +12,22 @@ A-C/The Black Crowes/By Your Side
 A-C/The Cult/Ceremony
 D-I/Damn Yankees/Don't Tread
 D-I/Doves/Some Cities
-D-I/Fairground Saints/Magic
 D-I/FM/Dead Man's Shoes
-D-I/Gone West/Tides
 D-I/The Heys
+J-N/Jason And The Scorchers/Both Sides Of The Line
+J-N/Jason And The Scorchers/Midnight Roads & Stages Seen
 J-N/Jenny Lewis/On The Line
 J-N/JetKing
-J-N/John Butler Trio/Sunrise Over Sea (Internet Album)
 J-N/John Mellencamp/The Best That I Could Do
 J-N/King's X/Please Come Home... Mr. Bulbous
 J-N/Lainey Wilson/Lainey Wilson - EP
 J-N/Lainey Wilson/Redneck Hollywood
+J-N/Matt Stell/Everywhere But On - EP
+J-N/Michaela Anne/Desert Dove
 J-N/Midland/Let It Roll
 J-N/Molly Hatchet/Warriors Of The Rainbow Bridge
 J-N/Mother Love Bone/Mother Love Bone
+O-S/Riley Green/Different Round Here
 O-S/Runaway June/Blue Roses
 O-S/Saxon/Unleash The Beast
 O-S/Somebody's Mind/Somebody's Mind - MySpace (More)
@@ -435,6 +438,7 @@ Carole King/Tapestry
 Carrie Underwood/Blown Away
 Carrie Underwood/Carnival Ride
 Carrie Underwood/Cry Pretty
+Carrie Underwood/Play On
 Carrie Underwood/Some Hearts
 Carrie Underwood/Storyteller
 Cassadee Pope/Frame By Frame
@@ -1153,9 +1157,11 @@ Jason Aldean/Rearview Town
 Jason Aldean/Relentless
 Jason Aldean/They Don't Know
 Jason Aldean/Wide Open
+Jason And The Scorchers/Both Sides Of The Line
 Jason And The Scorchers/Clear Impetuous Morning
 Jason And The Scorchers/Essential
 Jason And The Scorchers/Halcyon Times
+Jason And The Scorchers/Midnight Roads & Stages Seen
 Jason And The Scorchers/Reckless Country Soul
 Jason And The Scorchers/Still Standing
 Jason Isbell and the 400 Unit/Here We Rest
@@ -1626,6 +1632,7 @@ Martha Wainwright/Martha Wainwright
 Martina McBride/Evolution
 Martina McBride/Reckless
 Matt Berry/Witchazel
+Matt Stell/Everywhere But On - EP
 Mauro Magellan/Four Corners Of Sweet Hell
 Mauro Magellan/My Groovy Road
 Maverick Mag/Special C2C Issue
@@ -1666,6 +1673,7 @@ Metallica/Master Of Puppets
 Metallica/ReLoad
 Metallica/Ride The Lightning
 Metallica/St Anger
+Michaela Anne/Desert Dove
 Michael Jackson/Thriller
 Michael Schenker/Assault Attack
 Michael Schenker/Be Aware Of Scorpions
@@ -2004,6 +2012,7 @@ Rhino Bucket/Pain
 Richard & Linda Thompson/The Best Of Richard & Linda Thompson
 Rich Robinson/Paper
 Rich Robinson/Through A Crooked Sun
+Riley Green/Different Round Here
 Rilo Kiley/Under The Blacklight
 Ritchie Blackmore's Rainbow/Stranger In Us All
 Rival Sons/Great Western Valkyrie
