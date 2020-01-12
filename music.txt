@@ -6,6 +6,7 @@ A-C/Brooks & Dunn/Reboot
 A-C/Brothers Osborne/Live At The Ryman
 A-C/Camel/73-75 Gods Of Light [Live]
 A-C/Camel/Breathless
+A-C/Camel/Live Royal Albert Hall 2018 (DVD)
 A-C/Camel/On The Road 1972 [Live]
 A-C/Camel/On The Road 1982 [Live]
 A-C/Carrie Underwood/Play On
@@ -16,18 +17,17 @@ A-C/The Black Crowes/By Your Side
 A-C/The Cult/Ceremony
 D-I/Damn Yankees/Don't Tread
 D-I/Depeche Mode/Playing The Angel
+D-I/Derek & The Dominos/Live At The Fillmore
 D-I/Doves/Some Cities
-D-I/Eliza Carthy/Restitute
+D-I/Eric Clapton/E.C. Was Here [Live]
 D-I/Eric Johnson/Ah Via Musicom [Clean]
 D-I/Fairground Saints/Magic
 D-I/Fleetwood Mac/Fleetwood Mac
 D-I/FM/Dead Man's Shoes
-D-I/FM/Live No Electricity Required
 D-I/Gone West/Tides
 D-I/Gregg Allman/Southern Blood (Deluxe Edition)
 D-I/The Heys
 D-I/The Highwomen/The Highwomen
-J-N/Jake Owen/Greetings From...Jake
 J-N/Jason Aldean/9
 J-N/Jason And The Scorchers/Both Sides Of The Line
 J-N/Jason And The Scorchers/Midnight Roads & Stages Seen
@@ -38,6 +38,7 @@ J-N/John Butler Trio/Sunrise Over Sea (Internet Album)
 J-N/John Illsley/Long Shadows
 J-N/John Mellencamp/The Best That I Could Do
 J-N/King's X/Please Come Home... Mr. Bulbous
+J-N/Kix/Blow My Fuse
 J-N/Kris Kristofferson/The Austin Sessions (Expanded Edition)
 J-N/Lady Antebellum/Ocean
 J-N/Lainey Wilson/Lainey Wilson - EP
@@ -47,7 +48,6 @@ J-N/Luke Combs/What You See Is What You Get
 J-N/Maddie & Tae/2019 EPs
 J-N/Maddie & Tae/Everywhere I m Goin
 J-N/Maddie & Tae/One Heart To Another
-J-N/Martina McBride/Evolution
 J-N/Matt Stell/Everywhere But On - EP
 J-N/Michaela Anne/Desert Dove
 J-N/Midland/Let It Roll
@@ -56,17 +56,26 @@ J-N/Molly Hatchet/Warriors Of The Rainbow Bridge
 J-N/Mother Love Bone/Mother Love Bone
 O-S/Old Dominion/Old Dominion
 O-S/Page & Plant/No Quarter Jimmy Page & Robert Plant
-O-S/Pink Floyd/The Endless River (single track)
+O-S/Quiet Riot/Condition Critical
+O-S/Quiet Riot/Metal Health
+O-S/Quiet Riot/QR
+O-S/Quiet Riot/QR III
+O-S/Quiet Riot/Setlist_ The Very Best Of Quiet Riot Liv
+O-S/Razormaid/First Cutt
 O-S/Riley Green/Different Round Here
 O-S/Rosanne Cash/She Remembers Everything
 O-S/Runaway June/Blue Roses
 O-S/Saxon/Unleash The Beast
 O-S/Somebody's Mind/Somebody's Mind - MySpace (More)
+O-S/Steve Hackett/Defector
+O-S/Steve Hackett/Highly Strung
+O-S/Steve Hackett/Please Don't Touch!
+O-S/Steve Hackett/Spectral Mornings
+O-S/Steve Hackett/Voyage Of The Acolyte
 O-S/Striking Matches/Morning
 T/Tedeschi Trucks Band/Let Me Get By
 T/Tedeschi Trucks Band/Made Up Mind
-T/Thomas Rhett/Center Point Road
-T/Twisted Sister/Live At The Marquee 1983
+T/Tesla/Mechanical Resonance
 U-Z/UFO/The Wild, The Willing And The Innocent
 U-Z/Van Zant/Brother To Brother
 U-Z/Whiskey Myers/Whiskey Myers
@@ -456,6 +465,7 @@ Camel/Dust And Dreams
 Camel/Harbour of Tears
 Camel/I Can See Your House From Here
 Camel/Landscapes
+Camel/Live Royal Albert Hall 2018 (DVD)
 Camel/Lunar Sea
 Camel/Lunar Sea/Lunar_Sea_An_Anthology_1973-1985_[Disc_1_of_2]
 Camel/Lunar Sea/Lunar_Sea_An_Anthology_1973-1985_[Disc_2_of_2]
@@ -722,6 +732,7 @@ Depeche Mode/The Singles 1986-1998/The Singles 1986-1998 (Disc 1)
 Depeche Mode/The Singles 1986-1998/The Singles 1986-1998 (Disc 2)
 Depeche Mode/Ultra
 Depeche Mode/Violator
+Derek & The Dominos/Live At The Fillmore
 Des'ree/Mind Adventures
 Diamond Dixie/Reckless
 Diamond Head/The Best Of Diamond Head
@@ -867,6 +878,7 @@ Eric Clapton/Backtrackin'
 Eric Clapton/Complete
 Eric Clapton/Complete/Complete [Disc 1]
 Eric Clapton/Complete/Complete [Disc 2]
+Eric Clapton/E.C. Was Here [Live]
 Eric Clapton/Journeyman
 Eric Clapton/Pilgrim
 Eric Clapton/Reptile
@@ -1452,6 +1464,7 @@ Kiss/Music From The Elder
 Kiss/Revenge
 Kiss/Sonic Boom
 Kiss/Unmasked
+Kix/Blow My Fuse
 Klaxons/Myths Of The Near Future
 Kodaline/In A Perfect World
 Kooks/Inside In_Inside Out
@@ -1993,6 +2006,11 @@ Queens Of The Stone Age/Rated R
 Queens Of The Stone Age/Songs For The Deaf [Europe]
 Queens Of The Stone Age/Villains
 Queensryche/Q2k
+Quiet Riot/Condition Critical
+Quiet Riot/Metal Health
+Quiet Riot/QR
+Quiet Riot/QR III
+Quiet Riot/Setlist_ The Very Best Of Quiet Riot Liv
 Rachel Unthank & The Winterset/The Bairns
 Radiohead/Ok Computer
 Radiohead/Pablo Honey
@@ -2045,6 +2063,7 @@ Ratt/Infestation
 Ratt/Invasion of Your Privacy
 Ratt/Out of the Cellar
 Razorlight/Up All Night
+Razormaid/First Cutt
 Reba McEntire/Love Somebody
 Reba McEntire/So Good Together
 Red Dragon Cartel/Red Dragon Cartel
@@ -2319,6 +2338,11 @@ Stereophonics/Performance And Cocktails
 Steve Earle/Copperhead Road
 Steve Earle/The Low Highway
 Steve Gaines/One In The Sun
+Steve Hackett/Defector
+Steve Hackett/Highly Strung
+Steve Hackett/Please Don't Touch!
+Steve Hackett/Spectral Mornings
+Steve Hackett/Voyage Of The Acolyte
 Steve Vai/Passion & Warfare
 Steve Vai/Sex & Religion
 Steve Vai/The Ultra Zone
@@ -2422,6 +2446,7 @@ Terrorvision/Take The Money And Run/Take The Money And Run [Disc 2]
 Terrorvision/The Essential Terrorvision
 Terrorvision/Whales And Dolphins - The Best Of Terrorvision
 Terry Anderson/You Don''t Like Me
+Tesla/Mechanical Resonance
 Testament/Signs Of Chaos_ The Best Of Testament
 Testament/Souls Of Black
 Texas/In Demand (Single)
