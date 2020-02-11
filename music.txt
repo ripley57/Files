@@ -1,5 +1,6 @@
 
 ********** RECENT ADDITIONS/UPDATES IN THE LAST 200 DAYS ***********
+A-C/All About Eve/Touched By The Hand Of Jesus
 A-C/Blackberry Smoke/Homecoming Live In Atlanta, Georgia 2018
 A-C/Brantley Gilbert/Fire & Brimstone
 A-C/Brooks & Dunn/Reboot
@@ -10,31 +11,26 @@ A-C/Camel/Live Royal Albert Hall 2018 (DVD)
 A-C/Camel/On The Road 1972 [Live]
 A-C/Camel/On The Road 1982 [Live]
 A-C/Carrie Underwood/Play On
+A-C/Chris Young/It Must Be Christmas
 A-C/Colin Bass/An Outcast of the Islands
 A-C/Colin Bass/Live At Polskie Radio 3
-A-C/Compilations/MySpace Compilation 2008
-A-C/The Black Crowes/By Your Side
+A-C/The Bluefields/Day In The Sun
+A-C/The Cadillac Three/Country Fuzz
 A-C/The Cult/Ceremony
-D-I/Damn Yankees/Don't Tread
 D-I/Depeche Mode/Playing The Angel
 D-I/Derek & The Dominos/Live At The Fillmore
-D-I/Doves/Some Cities
+D-I/Dustin Lynch/Tullahoma
 D-I/Eric Clapton/E.C. Was Here [Live]
 D-I/Eric Johnson/Ah Via Musicom [Clean]
-D-I/Fairground Saints/Magic
 D-I/Fleetwood Mac/Fleetwood Mac
 D-I/FM/Dead Man's Shoes
-D-I/Gone West/Tides
 D-I/Gregg Allman/Southern Blood (Deluxe Edition)
-D-I/The Heys
 D-I/The Highwomen/The Highwomen
 J-N/Jason Aldean/9
 J-N/Jason And The Scorchers/Both Sides Of The Line
 J-N/Jason And The Scorchers/Midnight Roads & Stages Seen
 J-N/Jenny Lewis/On The Line
-J-N/JetKing
 J-N/Joe Satriani, Eric Johnson & Steve Vai/G3 Live In Concert
-J-N/John Butler Trio/Sunrise Over Sea (Internet Album)
 J-N/John Illsley/Long Shadows
 J-N/John Mellencamp/The Best That I Could Do
 J-N/King's X/Please Come Home... Mr. Bulbous
@@ -66,18 +62,17 @@ O-S/Riley Green/Different Round Here
 O-S/Rosanne Cash/She Remembers Everything
 O-S/Runaway June/Blue Roses
 O-S/Saxon/Unleash The Beast
-O-S/Somebody's Mind/Somebody's Mind - MySpace (More)
 O-S/Steve Hackett/Defector
 O-S/Steve Hackett/Highly Strung
 O-S/Steve Hackett/Please Don't Touch!
 O-S/Steve Hackett/Spectral Mornings
 O-S/Steve Hackett/Voyage Of The Acolyte
-O-S/Striking Matches/Morning
+O-S/Striking Matches/Morning - Noon
 T/Tedeschi Trucks Band/Let Me Get By
 T/Tedeschi Trucks Band/Made Up Mind
 T/Tesla/Mechanical Resonance
+U-Z/The Wandering Hearts/Wild Silence
 U-Z/UFO/The Wild, The Willing And The Innocent
-U-Z/Van Zant/Brother To Brother
 U-Z/Whiskey Myers/Whiskey Myers
 U-Z/Whitesnake/(Monitor Mixes) Slip Of The Tongue (30th Anniversary)
 U-Z/Whitesnake/(Remaster) Slip Of The Tongue (30th Anniversary)
@@ -178,6 +173,7 @@ All About Eve/Keepsakes A Collection
 All About Eve/Keepsakes A Collection/Keepsakes A Collection (Disc 1)
 All About Eve/Keepsakes A Collection/Keepsakes A Collection (Disc 2)
 All About Eve/Scarlet And Other Stories
+All About Eve/Touched By The Hand Of Jesus
 Alter Bridge/AB III
 Alter Bridge/Blackbird
 Alter Bridge/Fortress
@@ -532,6 +528,7 @@ Christine McVie/In The Meantime
 Christophe Mae/On Trace La Route
 Chris Young/A.M
 Chris Young/I'm Comin' Over
+Chris Young/It Must Be Christmas
 Chris Young/Losing Sleep
 Chris Young/Neon
 Chris Young/The Man I Want To Be
@@ -820,6 +817,7 @@ Dr. John/Locked Down
 Dr. John/The Very Best Of Dr. John
 Duffy/Rockferry
 Dustin Lynch/Current Mood
+Dustin Lynch/Tullahoma
 Dustin Lynch/Where It's At
 Dusty Springfield/Dusty in Memphis
 Dweezil Zappa/Automatic
@@ -2372,7 +2370,7 @@ Stone Temple Pilots/Core
 Stone Temple Pilots/No4
 Stone Temple Pilots/Thank You
 Stone Temple Pilots/Tiny Music...Songs From The Vatican Gift
-Striking Matches/Morning
+Striking Matches/Morning - Noon
 Striking Matches/Nothing But The Silence
 Suede/Dog Man Star
 Sugar/Beaster (Remastered)
@@ -2504,6 +2502,7 @@ The Bloodhound Gang/Hooray For Boobies
 The Bloodhound Gang/One Fierce Beer Coaster
 The Bloodhound Gang/Use Your Fingers
 The Blue Aeroplanes/Huh!
+The Bluefields/Day In The Sun
 The Bluefields/Pure
 The Bluefields/Ramshackle
 The Bluefields/Under High Cotton
@@ -2514,6 +2513,7 @@ The Brian Jonestown Massacre/Give It Back!
 The Brian Jonestown Massacre/Tepid Peppermint Wonderland_ A Retrospec
 The Bullhounds/To Rock and to Serve
 The Cadillac Three/Bury Me In My Boots
+The Cadillac Three/Country Fuzz
 The Cadillac Three/Legacy
 The Cadillac Three/Tennessee Mojo
 The Calling/Camino Palmero
@@ -2711,6 +2711,7 @@ The Velvet Underground/The Velvet Underground
 The Velvet Underground/The Very Best
 The Verve/Urban Hymns
 The View/Hats Off To The Buskers
+The Wandering Hearts/Wild Silence
 The War On Drugs/Lost In The Dream
 The War On Drugs/Wagonwheel Blues
 The Watson Twins/Fire Songs
