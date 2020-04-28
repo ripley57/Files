@@ -16,10 +16,11 @@ then
 fi
  
 # Generate a "recent additions/updates" albums list.
-./recent_music.sh > music.txt.utf-8
+#Skip for now - the NAS re-org has screwed-up most of the file LMDs.
+#./recent_music.sh > music.txt.utf-8
 
 # Followed by a full albums list.
-find . -type d -print | sed -n 's#\./[A-Z]-*[A-Z]*/\(.*/.*\)#\1#p' | sort >> music.txt.utf-8
+find . -type d -print | sed -n 's#\./[A-Z]-*[A-Z]*/\(.*/.*\)#\1#p' | sort > music.txt.utf-8
 
 # Create a pdf version.
 #
